@@ -82,7 +82,7 @@ $(document).ready(async () => {
 
     const commonProvider = new ethers.providers.JsonRpcProvider('https://rpc.ftm.tools/');
     let contract = (
-        new ethers.Contract('0x4162977558eB5830e6fc5adEb67bF6625F458929',
+        new ethers.Contract('0x5d24319358848E5e0f9f8a1F72e91DAf5A0F14df',
             require('../src/abi.json')))
         .connect(commonProvider);
 
@@ -90,14 +90,12 @@ $(document).ready(async () => {
         return (await contract.totalSupply()).toNumber();
     };
 
-    const mint = async (count = 1): Promise<ethers.ContractTransaction> => {
+    const mint = async (tokenId: number): Promise<ethers.ContractTransaction> => {
         const price = await contract.price();
 
         console.log('Price: %s', price.toString());
 
-        const sendVal = price.mul(count);
-
-        return contract.buySpirit(count, { value: sendVal });
+        return contract.buySpirit(tokenId, { value: price });
     };
 
     let currentToken = 0;
@@ -150,7 +148,7 @@ $(document).ready(async () => {
 
     mintButton.on('click', async () => {
         try {
-            const tx = await mint();
+            const tx = await mint(currentToken);
 
             await tx.wait(2);
 
