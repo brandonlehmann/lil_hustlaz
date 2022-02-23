@@ -179,9 +179,9 @@ $(document).ready(async () => {
 
                 contract = contract.connect(controller.signer);
 
-                mintButton.removeAttr('disabled');
-
                 showStatus(true, '');
+
+                timer.tick();
             } catch (e: any) {
                 button.text('Connect Wallet');
 
