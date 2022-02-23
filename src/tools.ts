@@ -18,6 +18,8 @@ const loadMeta = (tokenId: number): INFT => {
         .slice(-2)
         .join('/');
 
+    meta.image = meta.image.replace('.mp4', '_noaudio.mp4');
+
     return meta;
 };
 
