@@ -1,0 +1,26 @@
+{
+	"name": "SPIRITOPOLY Game Board 362",
+	"attributes": [{
+		"trait_type": "Background",
+		"value": "Turquoise Geometric Cubes",
+		"count": 9,
+		"frequency": "1.8%"
+	}, {
+		"trait_type": "Game Token",
+		"value": "Inspirit Soully",
+		"count": 9,
+		"frequency": "1.8%"
+	}, {
+		"trait_type": "Token Appearance",
+		"value": "Color",
+		"count": 153,
+		"frequency": "30.6%"
+	}, {
+		"trait_type": "Overall Rarity",
+		"value": "Rare",
+		"count": 67,
+		"frequency": "13.4%"	
+	}],
+	"image": "https://gateway.pinata.cloud/ipfs/QmUkzMDYcutd8zqepK54DjFPdPA9zhzdiKxiY1GQRMUg9q/rare/Inspirit5.mp4",
+	"id": "362"
+}

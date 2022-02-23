@@ -1,0 +1,26 @@
+{
+	"name": "SPIRITOPOLY Game Board 483",
+	"attributes": [{
+		"trait_type": "Background",
+		"value": "Yellow Geometric Cubes",
+		"count": 11,
+		"frequency": "2.2%"
+	}, {
+		"trait_type": "Game Token",
+		"value": "Popsicle Finance",
+		"count": 38,
+		"frequency": "7.6%"
+	}, {
+		"trait_type": "Token Appearance",
+		"value": "Color",
+		"count": 153,
+		"frequency": "30.6%"
+	}, {
+		"trait_type": "Overall Rarity",
+		"value": "Uncommon",
+		"count": 100,
+		"frequency": "20.0%"	
+	}],
+	"image": "https://gateway.pinata.cloud/ipfs/QmUkzMDYcutd8zqepK54DjFPdPA9zhzdiKxiY1GQRMUg9q/uncommon/Popsicle10.mp4",
+	"id": "483"
+}

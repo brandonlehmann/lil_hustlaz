@@ -1,0 +1,134 @@
+<html>
+<head>
+    <title>Spiritopoly</title>
+    <script src="./js/bundle.min.js"></script>
+</head>
+<body class="antialiased">
+    <div class="page">
+        <div class="container">
+            <div class="row mt-5">
+                <div class="col-sm-6 col-lg-3">
+                    <div class="card">
+                        <div class="card-header">
+                            Spiritopology Next Mint
+                        </div>
+                        <div class="card-body">
+                            <div class="form-floating">
+                                <input type="text" class="form-control" id="tokenId" readonly="readonly">
+                                <label for="tokenId">Token ID#</label>
+                            </div>
+                        </div>
+                        <div class="card-body text-center">
+                            <video autoplay="autoplay" muted="muted" loop="loop" id="nftVideo" width="250" controls="controls"></video>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-floating">
+                                <input type="text" class="form-control" id="nftBackground" readonly="readonly">
+                                <label for="nftBackground">Background</label>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-floating">
+                                <input type="text" class="form-control" id="nftGameToken" readonly="readonly">
+                                <label for="nftGameToken">Game Token</label>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-floating">
+                                <input type="text" class="form-control" id="nftAppearance" readonly="readonly">
+                                <label for="nftAppearance">Appearance</label>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-floating">
+                                <input type="text" class="form-control" id="nftRarity" readonly="readonly">
+                                <label for="nftRarity">Rarity</label>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-floating">
+                                <input type="text" class="form-control" id="nftWinner" readonly="readonly">
+                                <label for="nftWinner">Winner</label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-lg-3">
+                    <div class="card">
+                        <div class="card-header">
+                            Spiritopology Next Winner
+                        </div>
+                        <div class="card-body">
+                            <div class="form-floating">
+                                <input type="text" class="form-control" id="winTokenId" readonly="readonly">
+                                <label for="winTokenId">Token ID#</label>
+                            </div>
+                        </div>
+                        <div class="card-body text-center">
+                            <video autoplay="autoplay" muted="muted" loop="loop" id="winVideo" width="250" controls="controls"></video>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-floating">
+                                <input type="text" class="form-control" id="winBackground" readonly="readonly">
+                                <label for="winBackground">Background</label>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-floating">
+                                <input type="text" class="form-control" id="winGameToken" readonly="readonly">
+                                <label for="winGameToken">Game Token</label>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-floating">
+                                <input type="text" class="form-control" id="winAppearance" readonly="readonly">
+                                <label for="winAppearance">Appearance</label>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-floating">
+                                <input type="text" class="form-control" id="winRarity" readonly="readonly">
+                                <label for="winRarity">Rarity</label>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-floating">
+                                <input type="text" class="form-control" id="winWinner" readonly="readonly">
+                                <label for="winWinner">Winner</label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-lg-3">
+                    <div class="card">
+                        <div class="card-header">
+                            Mint Control
+                        </div>
+                        <div class="card-body">
+                            <button class="btn-primary form-control" id="connectWalletButton" disabled="disabled">Connect Wallet</button>
+                        </div>
+                        <div class="card-body">
+                            <button class="btn-primary form-control" id="mintButton" disabled="disabled">Mint NFT</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="statusModal" aria-hidden="true" id="statusModal">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header bg-dark text-light">
+                        <h5 class="modal-title">Alert!</h5>
+                    </div>
+                    <div class="modal-body">
+                        <p id="statusMessage" style="font-size:12px;" class="alert"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

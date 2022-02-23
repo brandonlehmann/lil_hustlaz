@@ -1,0 +1,26 @@
+{
+	"name": "SPIRITOPOLY Game Board 436",
+	"attributes": [{
+		"trait_type": "Background",
+		"value": "Magenta Geometric Cubes",
+		"count": 5,
+		"frequency": "1.0%"
+	}, {
+		"trait_type": "Game Token",
+		"value": "Grim Finance",
+		"count": 8,
+		"frequency": "1.6%"
+	}, {
+		"trait_type": "Token Appearance",
+		"value": "Color",
+		"count": 153,
+		"frequency": "30.6%"
+	}, {
+		"trait_type": "Overall Rarity",
+		"value": "Rare",
+		"count": 67,
+		"frequency": "13.4%"	
+	}],
+	"image": "https://gateway.pinata.cloud/ipfs/QmUkzMDYcutd8zqepK54DjFPdPA9zhzdiKxiY1GQRMUg9q/rare/GrimScythe5.mp4",
+	"id": "436"
+}

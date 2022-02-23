@@ -1,0 +1,26 @@
+{
+	"name": "SPIRITOPOLY Game Board 13",
+	"attributes": [{
+		"trait_type": "Background",
+		"value": "Gold Geometric Cubes",
+		"count": 15,
+		"frequency": "3.0%"
+	}, {
+		"trait_type": "Game Token",
+		"value": "Reaper Farm",
+		"count": 8,
+		"frequency": "1.6%"
+	}, {
+		"trait_type": "Token Appearance",
+		"value": "Precious Gold",
+		"count": 12,
+		"frequency": "2.4%"
+	}, {
+		"trait_type": "Overall Rarity",
+		"value": "Mythic",
+		"count": 15,
+		"frequency": "3.0%"	
+	}],
+	"image": "https://gateway.pinata.cloud/ipfs/QmUkzMDYcutd8zqepK54DjFPdPA9zhzdiKxiY1GQRMUg9q/mythic/GoldReaper3.mp4",
+	"id": "13"
+}

@@ -1,0 +1,31 @@
+{
+	"name": "SPIRITOPOLY Game Board 254",
+	"attributes": [{
+		"trait_type": "Background",
+		"value": "White Geometric Cubes",
+		"count": 397,
+		"frequency": "79.4%"
+	}, {
+		"trait_type": "Game Token",
+		"value": "Gantom Stone",
+		"count": 6,
+		"frequency": "1.2%"
+	}, {
+		"trait_type": "Token Appearance",
+		"value": "Color",
+		"count": 153,
+		"frequency": "30.6%"
+	}, {
+		"trait_type": "Overall Rarity",
+		"value": "Rare",
+		"count": 67,
+		"frequency": "13.4%"
+	}, {
+		"trait_type": "Property",
+		"value": "SpiritSwap",
+		"count": 1,
+		"frequency": "0.2%"	
+	}],
+	"image": "https://gateway.pinata.cloud/ipfs/QmUkzMDYcutd8zqepK54DjFPdPA9zhzdiKxiY1GQRMUg9q/winners/Gantom-Spiritswap1.mp4",
+	"id": "254"
+}
