@@ -119,6 +119,14 @@ $(document).ready(async () => {
                 $('#nftRarity').val(getAttributeValue(meta, 'Overall Rarity'));
                 $('#nftWinner').val((winningTokenIds.includes(next)) ? 'YES!' : 'No');
 
+                if (winningTokenIds.includes(next)) {
+                    $('#mintButton').text('Safe Mint #' + next);
+                    $('#mintButton').removeAttr('disabled');
+                } else {
+                    $('#mintButton').text('Minting Disabled');
+                    $('#mintButton').attr('disabled', 'disabled');
+                }
+
                 const winner = loadMeta(nextWinner(next));
 
                 if (nextWinner(next) !== nextWinnerToken) {
