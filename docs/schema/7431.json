@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #7431",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/7431.png",
+    "dna": "079b9713652e610bba26f2e1f2966027e59aa1ea",
+    "edition": 7431,
+    "date": 1639794769890,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Blue",
+            "count": 980,
+            "average": 0.098,
+            "frequency": "9.800000000%",
+            "score": 10.204081632653061
+        },
+        {
+            "trait_type": "skins",
+            "value": "Tan",
+            "count": 2331,
+            "average": 0.2331,
+            "frequency": "23.310000000%",
+            "score": 4.29000429000429
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Gothic",
+            "count": 825,
+            "average": 0.0825,
+            "frequency": "8.250000000%",
+            "score": 12.121212121212121
+        },
+        {
+            "trait_type": "face",
+            "value": "Bullish",
+            "count": 401,
+            "average": 0.0401,
+            "frequency": "4.010000000%",
+            "score": 24.93765586034913
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Bridge",
+            "count": 459,
+            "average": 0.0459,
+            "frequency": "4.590000000%",
+            "score": 21.78649237472767
+        },
+        {
+            "trait_type": "shirts",
+            "value": "MJ",
+            "count": 334,
+            "average": 0.0334,
+            "frequency": "3.340000000%",
+            "score": 29.940119760479043
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Insomniac",
+            "count": 278,
+            "average": 0.0278,
+            "frequency": "2.780000000%",
+            "score": 35.97122302158274
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Vampire",
+            "count": 279,
+            "average": 0.0279,
+            "frequency": "2.790000000%",
+            "score": 35.842293906810035
+        },
+        {
+            "trait_type": "head",
+            "value": "Russled",
+            "count": 191,
+            "average": 0.0191,
+            "frequency": "1.910000000%",
+            "score": 52.35602094240838
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 227.44910391022646,
+        "rank": 5905,
+        "harmonic": {
+            "score": "0.439658800%",
+            "rank": 5905
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #8606",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/8606.png",
+    "dna": "8a4b84fc94a7d63529d4fd6812e34825698db79c",
+    "edition": 8606,
+    "date": 1639795010074,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Yellow",
+            "count": 998,
+            "average": 0.0998,
+            "frequency": "9.980000000%",
+            "score": 10.02004008016032
+        },
+        {
+            "trait_type": "skins",
+            "value": "White",
+            "count": 2396,
+            "average": 0.2396,
+            "frequency": "23.960000000%",
+            "score": 4.173622704507513
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Home Run",
+            "count": 109,
+            "average": 0.0109,
+            "frequency": "1.090000000%",
+            "score": 91.74311926605505
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Snake",
+            "count": 310,
+            "average": 0.031,
+            "frequency": "3.100000000%",
+            "score": 32.25806451612903
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Snarl",
+            "count": 298,
+            "average": 0.0298,
+            "frequency": "2.980000000%",
+            "score": 33.557046979865774
+        },
+        {
+            "trait_type": "head",
+            "value": "Mid",
+            "count": 436,
+            "average": 0.0436,
+            "frequency": "4.360000000%",
+            "score": 22.93577981651376
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 194.68767336323143,
+        "rank": 8417,
+        "harmonic": {
+            "score": "0.513643202%",
+            "rank": 8417
+        }
+    }
+}

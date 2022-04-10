@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #5736",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/5736.png",
+    "dna": "95e58ddff348bda8aa3848d74caf2e63dbb87307",
+    "edition": 5736,
+    "date": 1639794418338,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Green",
+            "count": 996,
+            "average": 0.0996,
+            "frequency": "9.960000000%",
+            "score": 10.040160642570282
+        },
+        {
+            "trait_type": "skins",
+            "value": "Black",
+            "count": 2391,
+            "average": 0.2391,
+            "frequency": "23.910000000%",
+            "score": 4.182350480970305
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Greenie",
+            "count": 124,
+            "average": 0.0124,
+            "frequency": "1.240000000%",
+            "score": 80.64516129032258
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Hypno",
+            "count": 409,
+            "average": 0.0409,
+            "frequency": "4.090000000%",
+            "score": 24.449877750611247
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Joint",
+            "count": 407,
+            "average": 0.0407,
+            "frequency": "4.070000000%",
+            "score": 24.57002457002457
+        },
+        {
+            "trait_type": "head",
+            "value": "Heat",
+            "count": 404,
+            "average": 0.0404,
+            "frequency": "4.040000000%",
+            "score": 24.752475247524753
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 168.64004998202373,
+        "rank": 8993,
+        "harmonic": {
+            "score": "0.592978951%",
+            "rank": 8993
+        }
+    }
+}

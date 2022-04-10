@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #6130",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/6130.png",
+    "dna": "1c7ee68dbacb15d4cea089945ae4c4b3260e44cc",
+    "edition": 6130,
+    "date": 1639794486264,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Red",
+            "count": 968,
+            "average": 0.0968,
+            "frequency": "9.680000000%",
+            "score": 10.330578512396695
+        },
+        {
+            "trait_type": "skins",
+            "value": "Lightskin",
+            "count": 2392,
+            "average": 0.2392,
+            "frequency": "23.920000000%",
+            "score": 4.1806020066889635
+        },
+        {
+            "trait_type": "shirts",
+            "value": "LBJ",
+            "count": 338,
+            "average": 0.0338,
+            "frequency": "3.380000000%",
+            "score": 29.58579881656805
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Serious",
+            "count": 492,
+            "average": 0.0492,
+            "frequency": "4.920000000%",
+            "score": 20.32520325203252
+        },
+        {
+            "trait_type": "mouths",
+            "value": "One Too Many",
+            "count": 296,
+            "average": 0.0296,
+            "frequency": "2.960000000%",
+            "score": 33.78378378378378
+        },
+        {
+            "trait_type": "head",
+            "value": "Cheetah",
+            "count": 208,
+            "average": 0.0208,
+            "frequency": "2.080000000%",
+            "score": 48.07692307692308
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 146.28288944839312,
+        "rank": 9467,
+        "harmonic": {
+            "score": "0.683606951%",
+            "rank": 9467
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #6008",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/6008.png",
+    "dna": "e64c9a729520f888f4cc47989e857017e3af27b3",
+    "edition": 6008,
+    "date": 1639794465531,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Pink",
+            "count": 996,
+            "average": 0.0996,
+            "frequency": "9.960000000%",
+            "score": 10.040160642570282
+        },
+        {
+            "trait_type": "skins",
+            "value": "Black",
+            "count": 2391,
+            "average": 0.2391,
+            "frequency": "23.910000000%",
+            "score": 4.182350480970305
+        },
+        {
+            "trait_type": "shirts",
+            "value": "WWB",
+            "count": 229,
+            "average": 0.0229,
+            "frequency": "2.290000000%",
+            "score": 43.66812227074236
+        },
+        {
+            "trait_type": "eyes",
+            "value": "8ball",
+            "count": 377,
+            "average": 0.0377,
+            "frequency": "3.770000000%",
+            "score": 26.525198938992045
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Joint",
+            "count": 407,
+            "average": 0.0407,
+            "frequency": "4.070000000%",
+            "score": 24.57002457002457
+        },
+        {
+            "trait_type": "head",
+            "value": "Beanie",
+            "count": 422,
+            "average": 0.0422,
+            "frequency": "4.220000000%",
+            "score": 23.696682464454977
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 132.68253936775454,
+        "rank": 9798,
+        "harmonic": {
+            "score": "0.753678671%",
+            "rank": 9798
+        }
+    }
+}

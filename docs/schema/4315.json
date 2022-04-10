@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #4315",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/4315.png",
+    "dna": "84a5a59427b6bc0feb882bd4981f0dfc0b096ae4",
+    "edition": 4315,
+    "date": 1639794129366,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Purple",
+            "count": 970,
+            "average": 0.097,
+            "frequency": "9.700000000%",
+            "score": 10.309278350515463
+        },
+        {
+            "trait_type": "skins",
+            "value": "Lightskin",
+            "count": 2392,
+            "average": 0.2392,
+            "frequency": "23.920000000%",
+            "score": 4.1806020066889635
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Cash Rules",
+            "count": 350,
+            "average": 0.035,
+            "frequency": "3.500000000%",
+            "score": 28.57142857142857
+        },
+        {
+            "trait_type": "face",
+            "value": "Hundo",
+            "count": 382,
+            "average": 0.0382,
+            "frequency": "3.820000000%",
+            "score": 26.17801047120419
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Double Stud",
+            "count": 370,
+            "average": 0.037,
+            "frequency": "3.700000000%",
+            "score": 27.027027027027028
+        },
+        {
+            "trait_type": "shirts",
+            "value": "LBJ",
+            "count": 338,
+            "average": 0.0338,
+            "frequency": "3.380000000%",
+            "score": 29.58579881656805
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Confused",
+            "count": 504,
+            "average": 0.0504,
+            "frequency": "5.040000000%",
+            "score": 19.841269841269842
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Bored",
+            "count": 401,
+            "average": 0.0401,
+            "frequency": "4.010000000%",
+            "score": 24.93765586034913
+        },
+        {
+            "trait_type": "head",
+            "value": "Bandana",
+            "count": 338,
+            "average": 0.0338,
+            "frequency": "3.380000000%",
+            "score": 29.58579881656805
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 200.2168697616193,
+        "rank": 8158,
+        "harmonic": {
+            "score": "0.499458413%",
+            "rank": 8158
+        }
+    }
+}

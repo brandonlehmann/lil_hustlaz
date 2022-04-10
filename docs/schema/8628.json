@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #8628",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/8628.png",
+    "dna": "9198b6b5e2577c66e7e0baedf354bff61e1600c4",
+    "edition": 8628,
+    "date": 1639795013972,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "White",
+            "count": 1134,
+            "average": 0.1134,
+            "frequency": "11.340000000%",
+            "score": 8.818342151675484
+        },
+        {
+            "trait_type": "skins",
+            "value": "Tan",
+            "count": 2331,
+            "average": 0.2331,
+            "frequency": "23.310000000%",
+            "score": 4.29000429000429
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Two Chains",
+            "count": 114,
+            "average": 0.0114,
+            "frequency": "1.140000000%",
+            "score": 87.71929824561403
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Crying",
+            "count": 423,
+            "average": 0.0423,
+            "frequency": "4.230000000%",
+            "score": 23.64066193853428
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Tongue",
+            "count": 372,
+            "average": 0.0372,
+            "frequency": "3.720000000%",
+            "score": 26.881720430107528
+        },
+        {
+            "trait_type": "head",
+            "value": "Hawk",
+            "count": 416,
+            "average": 0.0416,
+            "frequency": "4.160000000%",
+            "score": 24.03846153846154
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 175.38848859439716,
+        "rank": 8878,
+        "harmonic": {
+            "score": "0.570162847%",
+            "rank": 8878
+        }
+    }
+}

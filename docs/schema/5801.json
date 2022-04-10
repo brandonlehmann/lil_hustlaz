@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #5801",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/5801.png",
+    "dna": "5b03afc8cd5da0c52372e629cd92a53cf045ca19",
+    "edition": 5801,
+    "date": 1639794429591,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Dark Blue",
+            "count": 1019,
+            "average": 0.1019,
+            "frequency": "10.190000000%",
+            "score": 9.813542688910696
+        },
+        {
+            "trait_type": "skins",
+            "value": "Black",
+            "count": 2391,
+            "average": 0.2391,
+            "frequency": "23.910000000%",
+            "score": 4.182350480970305
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Painter",
+            "count": 207,
+            "average": 0.0207,
+            "frequency": "2.070000000%",
+            "score": 48.309178743961354
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Third Eye",
+            "count": 212,
+            "average": 0.0212,
+            "frequency": "2.120000000%",
+            "score": 47.16981132075472
+        },
+        {
+            "trait_type": "mouths",
+            "value": "COVID",
+            "count": 402,
+            "average": 0.0402,
+            "frequency": "4.020000000%",
+            "score": 24.875621890547265
+        },
+        {
+            "trait_type": "head",
+            "value": "Comfy",
+            "count": 191,
+            "average": 0.0191,
+            "frequency": "1.910000000%",
+            "score": 52.35602094240838
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 186.70652606755272,
+        "rank": 8662,
+        "harmonic": {
+            "score": "0.535599918%",
+            "rank": 8662
+        }
+    }
+}

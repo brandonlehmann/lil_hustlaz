@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #4821",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/4821.png",
+    "dna": "e2fb2be63cc5370e2cc894c27fa8b7e40a1c0abf",
+    "edition": 4821,
+    "date": 1639794239555,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Orange",
+            "count": 1015,
+            "average": 0.1015,
+            "frequency": "10.150000000%",
+            "score": 9.852216748768472
+        },
+        {
+            "trait_type": "skins",
+            "value": "Green",
+            "count": 102,
+            "average": 0.0102,
+            "frequency": "1.020000000%",
+            "score": 98.0392156862745
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Cash Rules",
+            "count": 350,
+            "average": 0.035,
+            "frequency": "3.500000000%",
+            "score": 28.57142857142857
+        },
+        {
+            "trait_type": "face",
+            "value": "Get Cake",
+            "count": 293,
+            "average": 0.0293,
+            "frequency": "2.930000000%",
+            "score": 34.129692832764505
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Killer Combo",
+            "count": 355,
+            "average": 0.0355,
+            "frequency": "3.550000000%",
+            "score": 28.169014084507044
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Cant See Me",
+            "count": 226,
+            "average": 0.0226,
+            "frequency": "2.260000000%",
+            "score": 44.24778761061947
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Dolla",
+            "count": 437,
+            "average": 0.0437,
+            "frequency": "4.370000000%",
+            "score": 22.88329519450801
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Bored",
+            "count": 401,
+            "average": 0.0401,
+            "frequency": "4.010000000%",
+            "score": 24.93765586034913
+        },
+        {
+            "trait_type": "head",
+            "value": "Samurai",
+            "count": 328,
+            "average": 0.0328,
+            "frequency": "3.280000000%",
+            "score": 30.487804878048777
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 321.31811146726847,
+        "rank": 1248,
+        "harmonic": {
+            "score": "0.311218062%",
+            "rank": 1248
+        }
+    }
+}

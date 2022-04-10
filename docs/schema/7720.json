@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #7720",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/7720.png",
+    "dna": "24b67f8241b4e91f9cf008f7105da64acc517e53",
+    "edition": 7720,
+    "date": 1639794831939,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Red",
+            "count": 968,
+            "average": 0.0968,
+            "frequency": "9.680000000%",
+            "score": 10.330578512396695
+        },
+        {
+            "trait_type": "skins",
+            "value": "Lightskin",
+            "count": 2392,
+            "average": 0.2392,
+            "frequency": "23.920000000%",
+            "score": 4.1806020066889635
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Thug Life",
+            "count": 446,
+            "average": 0.0446,
+            "frequency": "4.460000000%",
+            "score": 22.42152466367713
+        },
+        {
+            "trait_type": "face",
+            "value": "Fearless",
+            "count": 279,
+            "average": 0.0279,
+            "frequency": "2.790000000%",
+            "score": 35.842293906810035
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Double Stud",
+            "count": 370,
+            "average": 0.037,
+            "frequency": "3.700000000%",
+            "score": 27.027027027027028
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Vested",
+            "count": 93,
+            "average": 0.0093,
+            "frequency": "0.930000000%",
+            "score": 107.52688172043011
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Stoned Cyclops",
+            "count": 101,
+            "average": 0.0101,
+            "frequency": "1.010000000%",
+            "score": 99.00990099009901
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Bored",
+            "count": 401,
+            "average": 0.0401,
+            "frequency": "4.010000000%",
+            "score": 24.93765586034913
+        },
+        {
+            "trait_type": "head",
+            "value": "90 Degrees",
+            "count": 302,
+            "average": 0.0302,
+            "frequency": "3.020000000%",
+            "score": 33.11258278145695
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 364.389047468935,
+        "rank": 591,
+        "harmonic": {
+            "score": "0.274431959%",
+            "rank": 591
+        }
+    }
+}

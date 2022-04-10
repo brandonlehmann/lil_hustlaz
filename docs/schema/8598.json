@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #8598",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/8598.png",
+    "dna": "dd4a31e469177d81e7bd8fd316f6a979c8dc8060",
+    "edition": 8598,
+    "date": 1639795008720,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "White",
+            "count": 1134,
+            "average": 0.1134,
+            "frequency": "11.340000000%",
+            "score": 8.818342151675484
+        },
+        {
+            "trait_type": "skins",
+            "value": "Tan",
+            "count": 2331,
+            "average": 0.2331,
+            "frequency": "23.310000000%",
+            "score": 4.29000429000429
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Golf Club",
+            "count": 119,
+            "average": 0.0119,
+            "frequency": "1.190000000%",
+            "score": 84.03361344537815
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Rolling",
+            "count": 478,
+            "average": 0.0478,
+            "frequency": "4.780000000%",
+            "score": 20.920502092050206
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Tongue",
+            "count": 372,
+            "average": 0.0372,
+            "frequency": "3.720000000%",
+            "score": 26.881720430107528
+        },
+        {
+            "trait_type": "head",
+            "value": "Heat",
+            "count": 404,
+            "average": 0.0404,
+            "frequency": "4.040000000%",
+            "score": 24.752475247524753
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 169.6966576567404,
+        "rank": 8976,
+        "harmonic": {
+            "score": "0.589286798%",
+            "rank": 8976
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #4786",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/4786.png",
+    "dna": "064645684db5d3c894ec1cc69067dbe11ac7d02e",
+    "edition": 4786,
+    "date": 1639794232006,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Yellow",
+            "count": 998,
+            "average": 0.0998,
+            "frequency": "9.980000000%",
+            "score": 10.02004008016032
+        },
+        {
+            "trait_type": "skins",
+            "value": "White",
+            "count": 2396,
+            "average": 0.2396,
+            "frequency": "23.960000000%",
+            "score": 4.173622704507513
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "412",
+            "count": 436,
+            "average": 0.0436,
+            "frequency": "4.360000000%",
+            "score": 22.93577981651376
+        },
+        {
+            "trait_type": "face",
+            "value": "Get Cake",
+            "count": 293,
+            "average": 0.0293,
+            "frequency": "2.930000000%",
+            "score": 34.129692832764505
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Star",
+            "count": 357,
+            "average": 0.0357,
+            "frequency": "3.570000000%",
+            "score": 28.011204481792713
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Scarf",
+            "count": 200,
+            "average": 0.02,
+            "frequency": "2.000000000%",
+            "score": 50
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Uzi",
+            "count": 91,
+            "average": 0.0091,
+            "frequency": "0.910000000%",
+            "score": 109.89010989010988
+        },
+        {
+            "trait_type": "mouths",
+            "value": "GOATee",
+            "count": 380,
+            "average": 0.038,
+            "frequency": "3.800000000%",
+            "score": 26.315789473684212
+        },
+        {
+            "trait_type": "head",
+            "value": "Killua",
+            "count": 221,
+            "average": 0.0221,
+            "frequency": "2.210000000%",
+            "score": 45.24886877828054
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 330.7251080578135,
+        "rank": 1039,
+        "harmonic": {
+            "score": "0.302365915%",
+            "rank": 1039
+        }
+    }
+}

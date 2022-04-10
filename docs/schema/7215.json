@@ -1,0 +1,100 @@
+{
+    "name": "Lil Hustlaz #7215",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/7215.png",
+    "dna": "49fef3cef531c2bb10703a18a710f20d5e453cd0",
+    "edition": 7215,
+    "date": 1639794717608,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Dark Blue",
+            "count": 1019,
+            "average": 0.1019,
+            "frequency": "10.190000000%",
+            "score": 9.813542688910696
+        },
+        {
+            "trait_type": "companions",
+            "value": "Ribbet",
+            "count": 35,
+            "average": 0.0035,
+            "frequency": "0.350000000%",
+            "score": 285.7142857142857
+        },
+        {
+            "trait_type": "skins",
+            "value": "White",
+            "count": 2396,
+            "average": 0.2396,
+            "frequency": "23.960000000%",
+            "score": 4.173622704507513
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Holy",
+            "count": 443,
+            "average": 0.0443,
+            "frequency": "4.430000000%",
+            "score": 22.573363431151243
+        },
+        {
+            "trait_type": "face",
+            "value": "Bullish",
+            "count": 401,
+            "average": 0.0401,
+            "frequency": "4.010000000%",
+            "score": 24.93765586034913
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Nostril",
+            "count": 361,
+            "average": 0.0361,
+            "frequency": "3.610000000%",
+            "score": 27.700831024930746
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Polo",
+            "count": 342,
+            "average": 0.0342,
+            "frequency": "3.420000000%",
+            "score": 29.239766081871345
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Basic",
+            "count": 503,
+            "average": 0.0503,
+            "frequency": "5.030000000%",
+            "score": 19.880715705765407
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Toothpick",
+            "count": 406,
+            "average": 0.0406,
+            "frequency": "4.060000000%",
+            "score": 24.630541871921185
+        },
+        {
+            "trait_type": "head",
+            "value": "Shinobi",
+            "count": 99,
+            "average": 0.0099,
+            "frequency": "0.990000000%",
+            "score": 101.010101010101
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 549.674426093794,
+        "rank": 56,
+        "harmonic": {
+            "score": "0.181925873%",
+            "rank": 56
+        }
+    }
+}

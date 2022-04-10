@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #9243",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/9243.png",
+    "dna": "11470aa81f84591f54f5f9536059ec1f40ee5e01",
+    "edition": 9243,
+    "date": 1639795120579,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Green",
+            "count": 996,
+            "average": 0.0996,
+            "frequency": "9.960000000%",
+            "score": 10.040160642570282
+        },
+        {
+            "trait_type": "skins",
+            "value": "Black",
+            "count": 2391,
+            "average": 0.2391,
+            "frequency": "23.910000000%",
+            "score": 4.182350480970305
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Scarf",
+            "count": 200,
+            "average": 0.02,
+            "frequency": "2.000000000%",
+            "score": 50
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Cyclops",
+            "count": 117,
+            "average": 0.0117,
+            "frequency": "1.170000000%",
+            "score": 85.47008547008546
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Cigarette",
+            "count": 179,
+            "average": 0.0179,
+            "frequency": "1.790000000%",
+            "score": 55.865921787709496
+        },
+        {
+            "trait_type": "head",
+            "value": "Shinobi",
+            "count": 99,
+            "average": 0.0099,
+            "frequency": "0.990000000%",
+            "score": 101.010101010101
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 306.5686193914365,
+        "rank": 1628,
+        "harmonic": {
+            "score": "0.326191246%",
+            "rank": 1628
+        }
+    }
+}

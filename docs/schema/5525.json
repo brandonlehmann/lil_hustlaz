@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #5525",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/5525.png",
+    "dna": "8cc22dbcb57c85db376d4119f16960e51a90dda8",
+    "edition": 5525,
+    "date": 1639794382706,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Green",
+            "count": 996,
+            "average": 0.0996,
+            "frequency": "9.960000000%",
+            "score": 10.040160642570282
+        },
+        {
+            "trait_type": "skins",
+            "value": "Lightskin",
+            "count": 2392,
+            "average": 0.2392,
+            "frequency": "23.920000000%",
+            "score": 4.1806020066889635
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Turtle",
+            "count": 226,
+            "average": 0.0226,
+            "frequency": "2.260000000%",
+            "score": 44.24778761061947
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Meditating",
+            "count": 315,
+            "average": 0.0315,
+            "frequency": "3.150000000%",
+            "score": 31.746031746031747
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Pissed",
+            "count": 320,
+            "average": 0.032,
+            "frequency": "3.200000000%",
+            "score": 31.25
+        },
+        {
+            "trait_type": "head",
+            "value": "Weekend",
+            "count": 300,
+            "average": 0.03,
+            "frequency": "3.000000000%",
+            "score": 33.333333333333336
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 154.7979153392438,
+        "rank": 9262,
+        "harmonic": {
+            "score": "0.646003532%",
+            "rank": 9262
+        }
+    }
+}

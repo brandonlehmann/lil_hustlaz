@@ -1,0 +1,100 @@
+{
+    "name": "Lil Hustlaz #7241",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/7241.png",
+    "dna": "46132fa844c549b353674708c3377d490be34719",
+    "edition": 7241,
+    "date": 1639794724801,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Pink",
+            "count": 996,
+            "average": 0.0996,
+            "frequency": "9.960000000%",
+            "score": 10.040160642570282
+        },
+        {
+            "trait_type": "companions",
+            "value": "Peace",
+            "count": 55,
+            "average": 0.0055,
+            "frequency": "0.550000000%",
+            "score": 181.81818181818184
+        },
+        {
+            "trait_type": "skins",
+            "value": "Lightskin",
+            "count": 2392,
+            "average": 0.2392,
+            "frequency": "23.920000000%",
+            "score": 4.1806020066889635
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Eagle",
+            "count": 418,
+            "average": 0.0418,
+            "frequency": "4.180000000%",
+            "score": 23.923444976076556
+        },
+        {
+            "trait_type": "face",
+            "value": "K!SS",
+            "count": 409,
+            "average": 0.0409,
+            "frequency": "4.090000000%",
+            "score": 24.449877750611247
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Sharp",
+            "count": 378,
+            "average": 0.0378,
+            "frequency": "3.780000000%",
+            "score": 26.455026455026456
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Essentials",
+            "count": 210,
+            "average": 0.021,
+            "frequency": "2.100000000%",
+            "score": 47.61904761904761
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Lizard",
+            "count": 109,
+            "average": 0.0109,
+            "frequency": "1.090000000%",
+            "score": 91.74311926605505
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Cigarette",
+            "count": 179,
+            "average": 0.0179,
+            "frequency": "1.790000000%",
+            "score": 55.865921787709496
+        },
+        {
+            "trait_type": "head",
+            "value": "Spike",
+            "count": 199,
+            "average": 0.0199,
+            "frequency": "1.990000000%",
+            "score": 50.25125628140703
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 516.3466386033745,
+        "rank": 103,
+        "harmonic": {
+            "score": "0.193668347%",
+            "rank": 103
+        }
+    }
+}

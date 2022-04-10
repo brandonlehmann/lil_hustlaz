@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #8757",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/8757.png",
+    "dna": "4638226a15c1a669d8f366eb59f9318e5ce494f3",
+    "edition": 8757,
+    "date": 1639795036923,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Dark Blue",
+            "count": 1019,
+            "average": 0.1019,
+            "frequency": "10.190000000%",
+            "score": 9.813542688910696
+        },
+        {
+            "trait_type": "skins",
+            "value": "Lightskin",
+            "count": 2392,
+            "average": 0.2392,
+            "frequency": "23.920000000%",
+            "score": 4.1806020066889635
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Robe",
+            "count": 119,
+            "average": 0.0119,
+            "frequency": "1.190000000%",
+            "score": 84.03361344537815
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Basic",
+            "count": 503,
+            "average": 0.0503,
+            "frequency": "5.030000000%",
+            "score": 19.880715705765407
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Chin Strap",
+            "count": 303,
+            "average": 0.0303,
+            "frequency": "3.030000000%",
+            "score": 33.003300330033
+        },
+        {
+            "trait_type": "head",
+            "value": "Russled",
+            "count": 191,
+            "average": 0.0191,
+            "frequency": "1.910000000%",
+            "score": 52.35602094240838
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 203.2677951191846,
+        "rank": 7977,
+        "harmonic": {
+            "score": "0.491961847%",
+            "rank": 7977
+        }
+    }
+}

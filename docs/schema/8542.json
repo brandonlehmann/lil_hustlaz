@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #8542",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/8542.png",
+    "dna": "fd1adcc9ba885b70ada46d78f2137e1a41ac1d20",
+    "edition": 8542,
+    "date": 1639794999461,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Orange",
+            "count": 1015,
+            "average": 0.1015,
+            "frequency": "10.150000000%",
+            "score": 9.852216748768472
+        },
+        {
+            "trait_type": "skins",
+            "value": "Black",
+            "count": 2391,
+            "average": 0.2391,
+            "frequency": "23.910000000%",
+            "score": 4.182350480970305
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Early Adopter",
+            "count": 231,
+            "average": 0.0231,
+            "frequency": "2.310000000%",
+            "score": 43.29004329004329
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Serious",
+            "count": 492,
+            "average": 0.0492,
+            "frequency": "4.920000000%",
+            "score": 20.32520325203252
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Chin Strap",
+            "count": 303,
+            "average": 0.0303,
+            "frequency": "3.030000000%",
+            "score": 33.003300330033
+        },
+        {
+            "trait_type": "head",
+            "value": "Lover Boy",
+            "count": 101,
+            "average": 0.0101,
+            "frequency": "1.010000000%",
+            "score": 99.00990099009901
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 209.6630150919466,
+        "rank": 7471,
+        "harmonic": {
+            "score": "0.476955842%",
+            "rank": 7471
+        }
+    }
+}

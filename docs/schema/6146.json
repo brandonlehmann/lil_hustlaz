@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #6146",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/6146.png",
+    "dna": "8ed80c4a604755a56ab704d74e2c87d9bf13e3b8",
+    "edition": 6146,
+    "date": 1639794488915,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Pink",
+            "count": 996,
+            "average": 0.0996,
+            "frequency": "9.960000000%",
+            "score": 10.040160642570282
+        },
+        {
+            "trait_type": "skins",
+            "value": "Tan",
+            "count": 2331,
+            "average": 0.2331,
+            "frequency": "23.310000000%",
+            "score": 4.29000429000429
+        },
+        {
+            "trait_type": "shirts",
+            "value": "LIFE IS CRAZY",
+            "count": 321,
+            "average": 0.0321,
+            "frequency": "3.210000000%",
+            "score": 31.152647975077883
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Diamond",
+            "count": 111,
+            "average": 0.0111,
+            "frequency": "1.110000000%",
+            "score": 90.09009009009009
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Blunt",
+            "count": 337,
+            "average": 0.0337,
+            "frequency": "3.370000000%",
+            "score": 29.673590504451038
+        },
+        {
+            "trait_type": "head",
+            "value": "Pop",
+            "count": 105,
+            "average": 0.0105,
+            "frequency": "1.050000000%",
+            "score": 95.23809523809523
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 260.4845887402888,
+        "rank": 3768,
+        "harmonic": {
+            "score": "0.383899871%",
+            "rank": 3768
+        }
+    }
+}

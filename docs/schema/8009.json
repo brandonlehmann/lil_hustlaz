@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #8009",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/8009.png",
+    "dna": "055a2a84c588abed5941843b5bd0301498d8015a",
+    "edition": 8009,
+    "date": 1639794894128,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Orange",
+            "count": 1015,
+            "average": 0.1015,
+            "frequency": "10.150000000%",
+            "score": 9.852216748768472
+        },
+        {
+            "trait_type": "skins",
+            "value": "White",
+            "count": 2396,
+            "average": 0.2396,
+            "frequency": "23.960000000%",
+            "score": 4.173622704507513
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Slytherin",
+            "count": 395,
+            "average": 0.0395,
+            "frequency": "3.950000000%",
+            "score": 25.31645569620253
+        },
+        {
+            "trait_type": "face",
+            "value": "Bullish",
+            "count": 401,
+            "average": 0.0401,
+            "frequency": "4.010000000%",
+            "score": 24.93765586034913
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Gold Stud",
+            "count": 379,
+            "average": 0.0379,
+            "frequency": "3.790000000%",
+            "score": 26.38522427440633
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Vested",
+            "count": 93,
+            "average": 0.0093,
+            "frequency": "0.930000000%",
+            "score": 107.52688172043011
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Third Eye",
+            "count": 212,
+            "average": 0.0212,
+            "frequency": "2.120000000%",
+            "score": 47.16981132075472
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Classic",
+            "count": 463,
+            "average": 0.0463,
+            "frequency": "4.630000000%",
+            "score": 21.598272138228943
+        },
+        {
+            "trait_type": "head",
+            "value": "Triple Threat",
+            "count": 316,
+            "average": 0.0316,
+            "frequency": "3.160000000%",
+            "score": 31.645569620253163
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 298.60571008390093,
+        "rank": 1899,
+        "harmonic": {
+            "score": "0.334889778%",
+            "rank": 1899
+        }
+    }
+}

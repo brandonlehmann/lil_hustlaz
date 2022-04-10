@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #3190",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/3190.png",
+    "dna": "c90f542d7a2b4e9c985320d2978d2cd38950ec5d",
+    "edition": 3190,
+    "date": 1639793887771,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Dark Blue",
+            "count": 1019,
+            "average": 0.1019,
+            "frequency": "10.190000000%",
+            "score": 9.813542688910696
+        },
+        {
+            "trait_type": "skins",
+            "value": "Black",
+            "count": 2391,
+            "average": 0.2391,
+            "frequency": "23.910000000%",
+            "score": 4.182350480970305
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Cash Rules",
+            "count": 350,
+            "average": 0.035,
+            "frequency": "3.500000000%",
+            "score": 28.57142857142857
+        },
+        {
+            "trait_type": "face",
+            "value": "No Ragrets",
+            "count": 254,
+            "average": 0.0254,
+            "frequency": "2.540000000%",
+            "score": 39.37007874015748
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Kitchen Sink",
+            "count": 368,
+            "average": 0.0368,
+            "frequency": "3.680000000%",
+            "score": 27.17391304347826
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Varsity",
+            "count": 113,
+            "average": 0.0113,
+            "frequency": "1.130000000%",
+            "score": 88.49557522123894
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Snake",
+            "count": 310,
+            "average": 0.031,
+            "frequency": "3.100000000%",
+            "score": 32.25806451612903
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Vampire",
+            "count": 279,
+            "average": 0.0279,
+            "frequency": "2.790000000%",
+            "score": 35.842293906810035
+        },
+        {
+            "trait_type": "head",
+            "value": "Raff",
+            "count": 112,
+            "average": 0.0112,
+            "frequency": "1.120000000%",
+            "score": 89.28571428571429
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 354.9929614548376,
+        "rank": 697,
+        "harmonic": {
+            "score": "0.281695726%",
+            "rank": 697
+        }
+    }
+}

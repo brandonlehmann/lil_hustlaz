@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #8378",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/8378.png",
+    "dna": "6fd0b91165a96bc589072c023e4550c53890adc0",
+    "edition": 8378,
+    "date": 1639794971094,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Dark Blue",
+            "count": 1019,
+            "average": 0.1019,
+            "frequency": "10.190000000%",
+            "score": 9.813542688910696
+        },
+        {
+            "trait_type": "skins",
+            "value": "Green",
+            "count": 102,
+            "average": 0.0102,
+            "frequency": "1.020000000%",
+            "score": 98.0392156862745
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Bandana",
+            "count": 198,
+            "average": 0.0198,
+            "frequency": "1.980000000%",
+            "score": 50.5050505050505
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Insomniac",
+            "count": 278,
+            "average": 0.0278,
+            "frequency": "2.780000000%",
+            "score": 35.97122302158274
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Blunt",
+            "count": 337,
+            "average": 0.0337,
+            "frequency": "3.370000000%",
+            "score": 29.673590504451038
+        },
+        {
+            "trait_type": "head",
+            "value": "Killua",
+            "count": 221,
+            "average": 0.0221,
+            "frequency": "2.210000000%",
+            "score": 45.24886877828054
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 269.25149118455,
+        "rank": 3334,
+        "harmonic": {
+            "score": "0.371399986%",
+            "rank": 3334
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "name": "Lil Hustlaz #9963",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/9963.png",
+    "dna": "6f4b32deedae618e2deea6aa684a940388b1aedc",
+    "edition": 9963,
+    "date": 1639795261979,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Hotbox",
+            "count": 492,
+            "average": 0.0492,
+            "frequency": "4.920000000%",
+            "score": 20.32520325203252
+        },
+        {
+            "trait_type": "skins",
+            "value": "Tan",
+            "count": 2331,
+            "average": 0.2331,
+            "frequency": "23.310000000%",
+            "score": 4.29000429000429
+        },
+        {
+            "trait_type": "face",
+            "value": "Spida",
+            "count": 314,
+            "average": 0.0314,
+            "frequency": "3.140000000%",
+            "score": 31.847133757961785
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Frostbite",
+            "count": 381,
+            "average": 0.0381,
+            "frequency": "3.810000000%",
+            "score": 26.246719160104984
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Slinged",
+            "count": 215,
+            "average": 0.0215,
+            "frequency": "2.150000000%",
+            "score": 46.51162790697675
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Hypno",
+            "count": 409,
+            "average": 0.0409,
+            "frequency": "4.090000000%",
+            "score": 24.449877750611247
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Chin Strap",
+            "count": 303,
+            "average": 0.0303,
+            "frequency": "3.030000000%",
+            "score": 33.003300330033
+        },
+        {
+            "trait_type": "head",
+            "value": "Durag",
+            "count": 312,
+            "average": 0.0312,
+            "frequency": "3.120000000%",
+            "score": 32.05128205128205
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 218.72514849900662,
+        "rank": 6676,
+        "harmonic": {
+            "score": "0.457194798%",
+            "rank": 6676
+        }
+    }
+}

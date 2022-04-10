@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #2920",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/2920.png",
+    "dna": "f4c2c53d3ff17e8870a608f303a5e65307bda89b",
+    "edition": 2920,
+    "date": 1639793828227,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Green",
+            "count": 996,
+            "average": 0.0996,
+            "frequency": "9.960000000%",
+            "score": 10.040160642570282
+        },
+        {
+            "trait_type": "skins",
+            "value": "Black",
+            "count": 2391,
+            "average": 0.2391,
+            "frequency": "23.910000000%",
+            "score": 4.182350480970305
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Thug Life",
+            "count": 446,
+            "average": 0.0446,
+            "frequency": "4.460000000%",
+            "score": 22.42152466367713
+        },
+        {
+            "trait_type": "face",
+            "value": "Ice Scream",
+            "count": 265,
+            "average": 0.0265,
+            "frequency": "2.650000000%",
+            "score": 37.735849056603776
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Frostbite",
+            "count": 381,
+            "average": 0.0381,
+            "frequency": "3.810000000%",
+            "score": 26.246719160104984
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Cant See Me",
+            "count": 226,
+            "average": 0.0226,
+            "frequency": "2.260000000%",
+            "score": 44.24778761061947
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Basic",
+            "count": 503,
+            "average": 0.0503,
+            "frequency": "5.030000000%",
+            "score": 19.880715705765407
+        },
+        {
+            "trait_type": "mouths",
+            "value": "6 Feet",
+            "count": 396,
+            "average": 0.0396,
+            "frequency": "3.960000000%",
+            "score": 25.25252525252525
+        },
+        {
+            "trait_type": "head",
+            "value": "Mid",
+            "count": 436,
+            "average": 0.0436,
+            "frequency": "4.360000000%",
+            "score": 22.93577981651376
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 212.94341238935036,
+        "rank": 7193,
+        "harmonic": {
+            "score": "0.469608329%",
+            "rank": 7193
+        }
+    }
+}

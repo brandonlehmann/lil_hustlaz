@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #525",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/525.png",
+    "dna": "2efa8d14be8c4bad4349690f64462b90552ded68",
+    "edition": 525,
+    "date": 1639793308599,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Orange",
+            "count": 1015,
+            "average": 0.1015,
+            "frequency": "10.150000000%",
+            "score": 9.852216748768472
+        },
+        {
+            "trait_type": "skins",
+            "value": "Tan",
+            "count": 2331,
+            "average": 0.2331,
+            "frequency": "23.310000000%",
+            "score": 4.29000429000429
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Eagle",
+            "count": 418,
+            "average": 0.0418,
+            "frequency": "4.180000000%",
+            "score": 23.923444976076556
+        },
+        {
+            "trait_type": "face",
+            "value": "Cryptomaniac",
+            "count": 358,
+            "average": 0.0358,
+            "frequency": "3.580000000%",
+            "score": 27.932960893854748
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Stud",
+            "count": 443,
+            "average": 0.0443,
+            "frequency": "4.430000000%",
+            "score": 22.573363431151243
+        },
+        {
+            "trait_type": "shirts",
+            "value": "I DONT SMOKE",
+            "count": 224,
+            "average": 0.0224,
+            "frequency": "2.240000000%",
+            "score": 44.642857142857146
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Diamond",
+            "count": 111,
+            "average": 0.0111,
+            "frequency": "1.110000000%",
+            "score": 90.09009009009009
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Coin",
+            "count": 414,
+            "average": 0.0414,
+            "frequency": "4.140000000%",
+            "score": 24.154589371980677
+        },
+        {
+            "trait_type": "head",
+            "value": "Weekend",
+            "count": 300,
+            "average": 0.03,
+            "frequency": "3.000000000%",
+            "score": 33.333333333333336
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 280.79286027811656,
+        "rank": 2726,
+        "harmonic": {
+            "score": "0.356134411%",
+            "rank": 2726
+        }
+    }
+}

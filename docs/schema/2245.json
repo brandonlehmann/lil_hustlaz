@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #2245",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/2245.png",
+    "dna": "05bfc6e0c3310d0a4535c7e341eddf1b7f6892f7",
+    "edition": 2245,
+    "date": 1639793681731,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Dark Blue",
+            "count": 1019,
+            "average": 0.1019,
+            "frequency": "10.190000000%",
+            "score": 9.813542688910696
+        },
+        {
+            "trait_type": "skins",
+            "value": "Tan",
+            "count": 2331,
+            "average": 0.2331,
+            "frequency": "23.310000000%",
+            "score": 4.29000429000429
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Mob",
+            "count": 166,
+            "average": 0.0166,
+            "frequency": "1.660000000%",
+            "score": 60.24096385542168
+        },
+        {
+            "trait_type": "face",
+            "value": "Blessed",
+            "count": 312,
+            "average": 0.0312,
+            "frequency": "3.120000000%",
+            "score": 32.05128205128205
+        },
+        {
+            "trait_type": "piercings",
+            "value": "STFU",
+            "count": 393,
+            "average": 0.0393,
+            "frequency": "3.930000000%",
+            "score": 25.44529262086514
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Ho Ho Ho",
+            "count": 237,
+            "average": 0.0237,
+            "frequency": "2.370000000%",
+            "score": 42.19409282700422
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Brow",
+            "count": 512,
+            "average": 0.0512,
+            "frequency": "5.120000000%",
+            "score": 19.53125
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Vampire",
+            "count": 279,
+            "average": 0.0279,
+            "frequency": "2.790000000%",
+            "score": 35.842293906810035
+        },
+        {
+            "trait_type": "head",
+            "value": "Lil Boat",
+            "count": 102,
+            "average": 0.0102,
+            "frequency": "1.020000000%",
+            "score": 98.0392156862745
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 327.4479379265726,
+        "rank": 1097,
+        "harmonic": {
+            "score": "0.305392059%",
+            "rank": 1097
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #5529",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/5529.png",
+    "dna": "e468e9e33cec4a64908abbb2451b11a8fd25a251",
+    "edition": 5529,
+    "date": 1639794383371,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "White",
+            "count": 1134,
+            "average": 0.1134,
+            "frequency": "11.340000000%",
+            "score": 8.818342151675484
+        },
+        {
+            "trait_type": "skins",
+            "value": "White",
+            "count": 2396,
+            "average": 0.2396,
+            "frequency": "23.960000000%",
+            "score": 4.173622704507513
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Puffer",
+            "count": 311,
+            "average": 0.0311,
+            "frequency": "3.110000000%",
+            "score": 32.154340836012864
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Aviator",
+            "count": 384,
+            "average": 0.0384,
+            "frequency": "3.840000000%",
+            "score": 26.041666666666668
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Bored",
+            "count": 401,
+            "average": 0.0401,
+            "frequency": "4.010000000%",
+            "score": 24.93765586034913
+        },
+        {
+            "trait_type": "head",
+            "value": "Frosted",
+            "count": 425,
+            "average": 0.0425,
+            "frequency": "4.250000000%",
+            "score": 23.52941176470588
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 119.65503998391753,
+        "rank": 9957,
+        "harmonic": {
+            "score": "0.835735795%",
+            "rank": 9957
+        }
+    }
+}

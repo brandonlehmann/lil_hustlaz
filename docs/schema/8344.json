@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #8344",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/8344.png",
+    "dna": "08e3e452688c53f777924c71c46834bfefd95ab2",
+    "edition": 8344,
+    "date": 1639794965082,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Yellow",
+            "count": 998,
+            "average": 0.0998,
+            "frequency": "9.980000000%",
+            "score": 10.02004008016032
+        },
+        {
+            "trait_type": "skins",
+            "value": "Lightskin",
+            "count": 2392,
+            "average": 0.2392,
+            "frequency": "23.920000000%",
+            "score": 4.1806020066889635
+        },
+        {
+            "trait_type": "shirts",
+            "value": "MJ",
+            "count": 334,
+            "average": 0.0334,
+            "frequency": "3.340000000%",
+            "score": 29.940119760479043
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Rolling",
+            "count": 478,
+            "average": 0.0478,
+            "frequency": "4.780000000%",
+            "score": 20.920502092050206
+        },
+        {
+            "trait_type": "mouths",
+            "value": "One Too Many",
+            "count": 296,
+            "average": 0.0296,
+            "frequency": "2.960000000%",
+            "score": 33.78378378378378
+        },
+        {
+            "trait_type": "head",
+            "value": "Visor",
+            "count": 308,
+            "average": 0.0308,
+            "frequency": "3.080000000%",
+            "score": 32.467532467532465
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 131.31258019069477,
+        "rank": 9826,
+        "harmonic": {
+            "score": "0.761541658%",
+            "rank": 9826
+        }
+    }
+}

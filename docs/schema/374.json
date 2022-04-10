@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #374",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/374.png",
+    "dna": "2be146c602420bbd43d14ea3ffdc0e58f2cc2f52",
+    "edition": 374,
+    "date": 1639793276369,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Orange",
+            "count": 1015,
+            "average": 0.1015,
+            "frequency": "10.150000000%",
+            "score": 9.852216748768472
+        },
+        {
+            "trait_type": "skins",
+            "value": "Tan",
+            "count": 2331,
+            "average": 0.2331,
+            "frequency": "23.310000000%",
+            "score": 4.29000429000429
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Eagle",
+            "count": 418,
+            "average": 0.0418,
+            "frequency": "4.180000000%",
+            "score": 23.923444976076556
+        },
+        {
+            "trait_type": "face",
+            "value": "Cry Later",
+            "count": 311,
+            "average": 0.0311,
+            "frequency": "3.110000000%",
+            "score": 32.154340836012864
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Nose Ring",
+            "count": 342,
+            "average": 0.0342,
+            "frequency": "3.420000000%",
+            "score": 29.239766081871345
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Revenge",
+            "count": 90,
+            "average": 0.009,
+            "frequency": "0.900000000%",
+            "score": 111.11111111111111
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Hypno",
+            "count": 409,
+            "average": 0.0409,
+            "frequency": "4.090000000%",
+            "score": 24.449877750611247
+        },
+        {
+            "trait_type": "mouths",
+            "value": "6 Feet",
+            "count": 396,
+            "average": 0.0396,
+            "frequency": "3.960000000%",
+            "score": 25.25252525252525
+        },
+        {
+            "trait_type": "head",
+            "value": "Lil Boat",
+            "count": 102,
+            "average": 0.0102,
+            "frequency": "1.020000000%",
+            "score": 98.0392156862745
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 358.31250273325566,
+        "rank": 652,
+        "harmonic": {
+            "score": "0.279085991%",
+            "rank": 652
+        }
+    }
+}

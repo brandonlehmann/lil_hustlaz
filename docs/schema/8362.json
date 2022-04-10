@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #8362",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/8362.png",
+    "dna": "e35bfbfd194cfeaa9ef164c0333edbf1222c4275",
+    "edition": 8362,
+    "date": 1639794968227,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Orange",
+            "count": 1015,
+            "average": 0.1015,
+            "frequency": "10.150000000%",
+            "score": 9.852216748768472
+        },
+        {
+            "trait_type": "skins",
+            "value": "Black",
+            "count": 2391,
+            "average": 0.2391,
+            "frequency": "23.910000000%",
+            "score": 4.182350480970305
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Senior",
+            "count": 102,
+            "average": 0.0102,
+            "frequency": "1.020000000%",
+            "score": 98.0392156862745
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Hypno",
+            "count": 409,
+            "average": 0.0409,
+            "frequency": "4.090000000%",
+            "score": 24.449877750611247
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Bonjour",
+            "count": 204,
+            "average": 0.0204,
+            "frequency": "2.040000000%",
+            "score": 49.01960784313725
+        },
+        {
+            "trait_type": "head",
+            "value": "Snapback",
+            "count": 393,
+            "average": 0.0393,
+            "frequency": "3.930000000%",
+            "score": 25.44529262086514
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 210.98856113062692,
+        "rank": 7352,
+        "harmonic": {
+            "score": "0.473959344%",
+            "rank": 7352
+        }
+    }
+}

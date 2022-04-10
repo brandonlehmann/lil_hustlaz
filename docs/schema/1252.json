@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #1252",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/1252.png",
+    "dna": "cd5f2d610275e1cb23abed480137227582f15419",
+    "edition": 1252,
+    "date": 1639793468606,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Purple",
+            "count": 970,
+            "average": 0.097,
+            "frequency": "9.700000000%",
+            "score": 10.309278350515463
+        },
+        {
+            "trait_type": "skins",
+            "value": "Lightskin",
+            "count": 2392,
+            "average": 0.2392,
+            "frequency": "23.920000000%",
+            "score": 4.1806020066889635
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Mob",
+            "count": 166,
+            "average": 0.0166,
+            "frequency": "1.660000000%",
+            "score": 60.24096385542168
+        },
+        {
+            "trait_type": "face",
+            "value": "Spida",
+            "count": 314,
+            "average": 0.0314,
+            "frequency": "3.140000000%",
+            "score": 31.847133757961785
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Bridge",
+            "count": 459,
+            "average": 0.0459,
+            "frequency": "4.590000000%",
+            "score": 21.78649237472767
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Tuddies",
+            "count": 122,
+            "average": 0.0122,
+            "frequency": "1.220000000%",
+            "score": 81.96721311475409
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Uzi",
+            "count": 91,
+            "average": 0.0091,
+            "frequency": "0.910000000%",
+            "score": 109.89010989010988
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Wise",
+            "count": 329,
+            "average": 0.0329,
+            "frequency": "3.290000000%",
+            "score": 30.395136778115504
+        },
+        {
+            "trait_type": "head",
+            "value": "Triple Threat",
+            "count": 316,
+            "average": 0.0316,
+            "frequency": "3.160000000%",
+            "score": 31.645569620253163
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 382.26249974854824,
+        "rank": 445,
+        "harmonic": {
+            "score": "0.261600340%",
+            "rank": 445
+        }
+    }
+}

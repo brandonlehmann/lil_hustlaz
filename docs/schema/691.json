@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #691",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/691.png",
+    "dna": "5ff82b61394c69e7ecb4583860e556abcbc9b4ab",
+    "edition": 691,
+    "date": 1639793343856,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "White",
+            "count": 1134,
+            "average": 0.1134,
+            "frequency": "11.340000000%",
+            "score": 8.818342151675484
+        },
+        {
+            "trait_type": "skins",
+            "value": "Blue",
+            "count": 96,
+            "average": 0.0096,
+            "frequency": "0.960000000%",
+            "score": 104.16666666666667
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "No Pain",
+            "count": 342,
+            "average": 0.0342,
+            "frequency": "3.420000000%",
+            "score": 29.239766081871345
+        },
+        {
+            "trait_type": "face",
+            "value": "96",
+            "count": 289,
+            "average": 0.0289,
+            "frequency": "2.890000000%",
+            "score": 34.602076124567475
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Nose Ring",
+            "count": 342,
+            "average": 0.0342,
+            "frequency": "3.420000000%",
+            "score": 29.239766081871345
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Revenge",
+            "count": 90,
+            "average": 0.009,
+            "frequency": "0.900000000%",
+            "score": 111.11111111111111
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Uzi",
+            "count": 91,
+            "average": 0.0091,
+            "frequency": "0.910000000%",
+            "score": 109.89010989010988
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Wise",
+            "count": 329,
+            "average": 0.0329,
+            "frequency": "3.290000000%",
+            "score": 30.395136778115504
+        },
+        {
+            "trait_type": "head",
+            "value": "Lucifer",
+            "count": 205,
+            "average": 0.0205,
+            "frequency": "2.050000000%",
+            "score": 48.78048780487805
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 506.24346269086686,
+        "rank": 127,
+        "harmonic": {
+            "score": "0.197533415%",
+            "rank": 127
+        }
+    }
+}

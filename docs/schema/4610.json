@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #4610",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/4610.png",
+    "dna": "095d0be2446e7d8430d3e09b5a85408bff2d9b9e",
+    "edition": 4610,
+    "date": 1639794193562,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Dark Blue",
+            "count": 1019,
+            "average": 0.1019,
+            "frequency": "10.190000000%",
+            "score": 9.813542688910696
+        },
+        {
+            "trait_type": "skins",
+            "value": "Black",
+            "count": 2391,
+            "average": 0.2391,
+            "frequency": "23.910000000%",
+            "score": 4.182350480970305
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Gothic",
+            "count": 825,
+            "average": 0.0825,
+            "frequency": "8.250000000%",
+            "score": 12.121212121212121
+        },
+        {
+            "trait_type": "face",
+            "value": "The Bash",
+            "count": 295,
+            "average": 0.0295,
+            "frequency": "2.950000000%",
+            "score": 33.898305084745765
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Frostbite",
+            "count": 381,
+            "average": 0.0381,
+            "frequency": "3.810000000%",
+            "score": 26.246719160104984
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Jean Jacket",
+            "count": 233,
+            "average": 0.0233,
+            "frequency": "2.330000000%",
+            "score": 42.918454935622314
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Snake",
+            "count": 310,
+            "average": 0.031,
+            "frequency": "3.100000000%",
+            "score": 32.25806451612903
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Snarl",
+            "count": 298,
+            "average": 0.0298,
+            "frequency": "2.980000000%",
+            "score": 33.557046979865774
+        },
+        {
+            "trait_type": "head",
+            "value": "Captain",
+            "count": 206,
+            "average": 0.0206,
+            "frequency": "2.060000000%",
+            "score": 48.543689320388346
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 243.53938528794936,
+        "rank": 4671,
+        "harmonic": {
+            "score": "0.410611203%",
+            "rank": 4671
+        }
+    }
+}

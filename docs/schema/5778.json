@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #5778",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/5778.png",
+    "dna": "e6644b551485584378101f57c83d317ba6d8d6f5",
+    "edition": 5778,
+    "date": 1639794425574,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Green",
+            "count": 996,
+            "average": 0.0996,
+            "frequency": "9.960000000%",
+            "score": 10.040160642570282
+        },
+        {
+            "trait_type": "skins",
+            "value": "Lightskin",
+            "count": 2392,
+            "average": 0.2392,
+            "frequency": "23.920000000%",
+            "score": 4.1806020066889635
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Classic",
+            "count": 202,
+            "average": 0.0202,
+            "frequency": "2.020000000%",
+            "score": 49.504950495049506
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Aviator",
+            "count": 384,
+            "average": 0.0384,
+            "frequency": "3.840000000%",
+            "score": 26.041666666666668
+        },
+        {
+            "trait_type": "mouths",
+            "value": "One Too Many",
+            "count": 296,
+            "average": 0.0296,
+            "frequency": "2.960000000%",
+            "score": 33.78378378378378
+        },
+        {
+            "trait_type": "head",
+            "value": "Roy G. Biv",
+            "count": 119,
+            "average": 0.0119,
+            "frequency": "1.190000000%",
+            "score": 84.03361344537815
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 207.58477704013734,
+        "rank": 7670,
+        "harmonic": {
+            "score": "0.481730893%",
+            "rank": 7670
+        }
+    }
+}

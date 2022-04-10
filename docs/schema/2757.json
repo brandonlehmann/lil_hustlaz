@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #2757",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/2757.png",
+    "dna": "2ab913db7b808d1c25261b632f03649fd790e95e",
+    "edition": 2757,
+    "date": 1639793791802,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Yellow",
+            "count": 998,
+            "average": 0.0998,
+            "frequency": "9.980000000%",
+            "score": 10.02004008016032
+        },
+        {
+            "trait_type": "skins",
+            "value": "Tan",
+            "count": 2331,
+            "average": 0.2331,
+            "frequency": "23.310000000%",
+            "score": 4.29000429000429
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Ballin",
+            "count": 424,
+            "average": 0.0424,
+            "frequency": "4.240000000%",
+            "score": 23.58490566037736
+        },
+        {
+            "trait_type": "face",
+            "value": "Cryptomaniac",
+            "count": 358,
+            "average": 0.0358,
+            "frequency": "3.580000000%",
+            "score": 27.932960893854748
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Kitchen Sink",
+            "count": 368,
+            "average": 0.0368,
+            "frequency": "3.680000000%",
+            "score": 27.17391304347826
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Greenie",
+            "count": 124,
+            "average": 0.0124,
+            "frequency": "1.240000000%",
+            "score": 80.64516129032258
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Confused",
+            "count": 504,
+            "average": 0.0504,
+            "frequency": "5.040000000%",
+            "score": 19.841269841269842
+        },
+        {
+            "trait_type": "mouths",
+            "value": "One Too Many",
+            "count": 296,
+            "average": 0.0296,
+            "frequency": "2.960000000%",
+            "score": 33.78378378378378
+        },
+        {
+            "trait_type": "head",
+            "value": "Lover Boy",
+            "count": 101,
+            "average": 0.0101,
+            "frequency": "1.010000000%",
+            "score": 99.00990099009901
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 326.2819398733502,
+        "rank": 1138,
+        "harmonic": {
+            "score": "0.306483405%",
+            "rank": 1138
+        }
+    }
+}

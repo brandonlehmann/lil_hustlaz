@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #2517",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/2517.png",
+    "dna": "372f7d70e6011db549720716e901b96dd1c8373f",
+    "edition": 2517,
+    "date": 1639793740034,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Green",
+            "count": 996,
+            "average": 0.0996,
+            "frequency": "9.960000000%",
+            "score": 10.040160642570282
+        },
+        {
+            "trait_type": "skins",
+            "value": "Lightskin",
+            "count": 2392,
+            "average": 0.2392,
+            "frequency": "23.920000000%",
+            "score": 4.1806020066889635
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Ballin",
+            "count": 424,
+            "average": 0.0424,
+            "frequency": "4.240000000%",
+            "score": 23.58490566037736
+        },
+        {
+            "trait_type": "face",
+            "value": "Get Rich",
+            "count": 420,
+            "average": 0.042,
+            "frequency": "4.200000000%",
+            "score": 23.809523809523807
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Nose Ring",
+            "count": 342,
+            "average": 0.0342,
+            "frequency": "3.420000000%",
+            "score": 29.239766081871345
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Karate Kid",
+            "count": 221,
+            "average": 0.0221,
+            "frequency": "2.210000000%",
+            "score": 45.24886877828054
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Serious",
+            "count": 492,
+            "average": 0.0492,
+            "frequency": "4.920000000%",
+            "score": 20.32520325203252
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Bored",
+            "count": 401,
+            "average": 0.0401,
+            "frequency": "4.010000000%",
+            "score": 24.93765586034913
+        },
+        {
+            "trait_type": "head",
+            "value": "Pop",
+            "count": 105,
+            "average": 0.0105,
+            "frequency": "1.050000000%",
+            "score": 95.23809523809523
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 276.6047813297892,
+        "rank": 2951,
+        "harmonic": {
+            "score": "0.361526650%",
+            "rank": 2951
+        }
+    }
+}

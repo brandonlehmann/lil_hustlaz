@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #5261",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/5261.png",
+    "dna": "5b1812eac4d3a04b3e3c89c06799ce27241e06bf",
+    "edition": 5261,
+    "date": 1639794337966,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Blue",
+            "count": 980,
+            "average": 0.098,
+            "frequency": "9.800000000%",
+            "score": 10.204081632653061
+        },
+        {
+            "trait_type": "skins",
+            "value": "Lightskin",
+            "count": 2392,
+            "average": 0.2392,
+            "frequency": "23.920000000%",
+            "score": 4.1806020066889635
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Painter",
+            "count": 207,
+            "average": 0.0207,
+            "frequency": "2.070000000%",
+            "score": 48.309178743961354
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Aviator",
+            "count": 384,
+            "average": 0.0384,
+            "frequency": "3.840000000%",
+            "score": 26.041666666666668
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Cyborg",
+            "count": 104,
+            "average": 0.0104,
+            "frequency": "1.040000000%",
+            "score": 96.15384615384616
+        },
+        {
+            "trait_type": "head",
+            "value": "Top Knot",
+            "count": 189,
+            "average": 0.0189,
+            "frequency": "1.890000000%",
+            "score": 52.91005291005291
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 237.7994281138691,
+        "rank": 5039,
+        "harmonic": {
+            "score": "0.420522458%",
+            "rank": 5039
+        }
+    }
+}

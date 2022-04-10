@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #8846",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/8846.png",
+    "dna": "5575389d795000838636be295e73fb5ea36073a5",
+    "edition": 8846,
+    "date": 1639795052266,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Static",
+            "count": 316,
+            "average": 0.0316,
+            "frequency": "3.160000000%",
+            "score": 31.645569620253163
+        },
+        {
+            "trait_type": "skins",
+            "value": "White",
+            "count": 2396,
+            "average": 0.2396,
+            "frequency": "23.960000000%",
+            "score": 4.173622704507513
+        },
+        {
+            "trait_type": "shirts",
+            "value": "LBJ",
+            "count": 338,
+            "average": 0.0338,
+            "frequency": "3.380000000%",
+            "score": 29.58579881656805
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Tatted",
+            "count": 290,
+            "average": 0.029,
+            "frequency": "2.900000000%",
+            "score": 34.48275862068965
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Snarl",
+            "count": 298,
+            "average": 0.0298,
+            "frequency": "2.980000000%",
+            "score": 33.557046979865774
+        },
+        {
+            "trait_type": "head",
+            "value": "Bandana",
+            "count": 338,
+            "average": 0.0338,
+            "frequency": "3.380000000%",
+            "score": 29.58579881656805
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 163.0305955584522,
+        "rank": 9090,
+        "harmonic": {
+            "score": "0.613381799%",
+            "rank": 9090
+        }
+    }
+}

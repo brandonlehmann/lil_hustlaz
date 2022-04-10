@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #8330",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/8330.png",
+    "dna": "668a149e967f6149a3ca05268d91b2fe6b549b25",
+    "edition": 8330,
+    "date": 1639794962656,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Purple",
+            "count": 970,
+            "average": 0.097,
+            "frequency": "9.700000000%",
+            "score": 10.309278350515463
+        },
+        {
+            "trait_type": "skins",
+            "value": "Black",
+            "count": 2391,
+            "average": 0.2391,
+            "frequency": "23.910000000%",
+            "score": 4.182350480970305
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Muscle Beach",
+            "count": 239,
+            "average": 0.0239,
+            "frequency": "2.390000000%",
+            "score": 41.84100418410041
+        },
+        {
+            "trait_type": "eyes",
+            "value": "In Love",
+            "count": 368,
+            "average": 0.0368,
+            "frequency": "3.680000000%",
+            "score": 27.17391304347826
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Cigarette",
+            "count": 179,
+            "average": 0.0179,
+            "frequency": "1.790000000%",
+            "score": 55.865921787709496
+        },
+        {
+            "trait_type": "head",
+            "value": "Hawk",
+            "count": 416,
+            "average": 0.0416,
+            "frequency": "4.160000000%",
+            "score": 24.03846153846154
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 163.41092938523548,
+        "rank": 9075,
+        "harmonic": {
+            "score": "0.611954172%",
+            "rank": 9075
+        }
+    }
+}

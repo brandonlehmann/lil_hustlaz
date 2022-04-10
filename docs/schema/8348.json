@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #8348",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/8348.png",
+    "dna": "258674a8ed72be237c689b4fdb1a349b8d0e5286",
+    "edition": 8348,
+    "date": 1639794965856,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Green",
+            "count": 996,
+            "average": 0.0996,
+            "frequency": "9.960000000%",
+            "score": 10.040160642570282
+        },
+        {
+            "trait_type": "skins",
+            "value": "White",
+            "count": 2396,
+            "average": 0.2396,
+            "frequency": "23.960000000%",
+            "score": 4.173622704507513
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Business",
+            "count": 207,
+            "average": 0.0207,
+            "frequency": "2.070000000%",
+            "score": 48.309178743961354
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Diamond",
+            "count": 111,
+            "average": 0.0111,
+            "frequency": "1.110000000%",
+            "score": 90.09009009009009
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Toothpick",
+            "count": 406,
+            "average": 0.0406,
+            "frequency": "4.060000000%",
+            "score": 24.630541871921185
+        },
+        {
+            "trait_type": "head",
+            "value": "Hawk",
+            "count": 416,
+            "average": 0.0416,
+            "frequency": "4.160000000%",
+            "score": 24.03846153846154
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 201.28205559151198,
+        "rank": 8097,
+        "harmonic": {
+            "score": "0.496815276%",
+            "rank": 8097
+        }
+    }
+}

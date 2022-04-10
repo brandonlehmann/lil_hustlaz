@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #7184",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/7184.png",
+    "dna": "bca91d257cceb43e6437f473ffea4f7dce0859f1",
+    "edition": 7184,
+    "date": 1639794710351,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Orange",
+            "count": 1015,
+            "average": 0.1015,
+            "frequency": "10.150000000%",
+            "score": 9.852216748768472
+        },
+        {
+            "trait_type": "skins",
+            "value": "Black",
+            "count": 2391,
+            "average": 0.2391,
+            "frequency": "23.910000000%",
+            "score": 4.182350480970305
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Ready 2 Die",
+            "count": 520,
+            "average": 0.052,
+            "frequency": "5.200000000%",
+            "score": 19.23076923076923
+        },
+        {
+            "trait_type": "face",
+            "value": "Get Rich",
+            "count": 420,
+            "average": 0.042,
+            "frequency": "4.200000000%",
+            "score": 23.809523809523807
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Nostril",
+            "count": 361,
+            "average": 0.0361,
+            "frequency": "3.610000000%",
+            "score": 27.700831024930746
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Essentials",
+            "count": 210,
+            "average": 0.021,
+            "frequency": "2.100000000%",
+            "score": 47.61904761904761
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Insomniac",
+            "count": 278,
+            "average": 0.0278,
+            "frequency": "2.780000000%",
+            "score": 35.97122302158274
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Wise",
+            "count": 329,
+            "average": 0.0329,
+            "frequency": "3.290000000%",
+            "score": 30.395136778115504
+        },
+        {
+            "trait_type": "head",
+            "value": "Skinhead",
+            "count": 102,
+            "average": 0.0102,
+            "frequency": "1.020000000%",
+            "score": 98.0392156862745
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 296.80031439998294,
+        "rank": 1978,
+        "harmonic": {
+            "score": "0.336926867%",
+            "rank": 1978
+        }
+    }
+}

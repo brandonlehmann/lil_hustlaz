@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #1195",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/1195.png",
+    "dna": "4c3c4955d6521e64376db707b0ea68d46f16d727",
+    "edition": 1195,
+    "date": 1639793456375,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Pink",
+            "count": 996,
+            "average": 0.0996,
+            "frequency": "9.960000000%",
+            "score": 10.040160642570282
+        },
+        {
+            "trait_type": "skins",
+            "value": "White",
+            "count": 2396,
+            "average": 0.2396,
+            "frequency": "23.960000000%",
+            "score": 4.173622704507513
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Thug Life",
+            "count": 446,
+            "average": 0.0446,
+            "frequency": "4.460000000%",
+            "score": 22.42152466367713
+        },
+        {
+            "trait_type": "face",
+            "value": "Bullish",
+            "count": 401,
+            "average": 0.0401,
+            "frequency": "4.010000000%",
+            "score": 24.93765586034913
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Rock",
+            "count": 423,
+            "average": 0.0423,
+            "frequency": "4.230000000%",
+            "score": 23.64066193853428
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Golf Club",
+            "count": 119,
+            "average": 0.0119,
+            "frequency": "1.190000000%",
+            "score": 84.03361344537815
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Confused",
+            "count": 504,
+            "average": 0.0504,
+            "frequency": "5.040000000%",
+            "score": 19.841269841269842
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Os",
+            "count": 216,
+            "average": 0.0216,
+            "frequency": "2.160000000%",
+            "score": 46.29629629629629
+        },
+        {
+            "trait_type": "head",
+            "value": "90 Degrees",
+            "count": 302,
+            "average": 0.0302,
+            "frequency": "3.020000000%",
+            "score": 33.11258278145695
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 268.49738817403954,
+        "rank": 3372,
+        "harmonic": {
+            "score": "0.372443102%",
+            "rank": 3372
+        }
+    }
+}

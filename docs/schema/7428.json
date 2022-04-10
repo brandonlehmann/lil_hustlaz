@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #7428",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/7428.png",
+    "dna": "1772dfe8b2c1419b9842aabf2d78ed5dc8949a3c",
+    "edition": 7428,
+    "date": 1639794769295,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Hotbox",
+            "count": 492,
+            "average": 0.0492,
+            "frequency": "4.920000000%",
+            "score": 20.32520325203252
+        },
+        {
+            "trait_type": "skins",
+            "value": "Tan",
+            "count": 2331,
+            "average": 0.2331,
+            "frequency": "23.310000000%",
+            "score": 4.29000429000429
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Only God",
+            "count": 407,
+            "average": 0.0407,
+            "frequency": "4.070000000%",
+            "score": 24.57002457002457
+        },
+        {
+            "trait_type": "face",
+            "value": "Spida",
+            "count": 314,
+            "average": 0.0314,
+            "frequency": "3.140000000%",
+            "score": 31.847133757961785
+        },
+        {
+            "trait_type": "piercings",
+            "value": "The Calf",
+            "count": 435,
+            "average": 0.0435,
+            "frequency": "4.350000000%",
+            "score": 22.98850574712644
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Play Ball",
+            "count": 281,
+            "average": 0.0281,
+            "frequency": "2.810000000%",
+            "score": 35.587188612099645
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Uzi",
+            "count": 91,
+            "average": 0.0091,
+            "frequency": "0.910000000%",
+            "score": 109.89010989010988
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Wise",
+            "count": 329,
+            "average": 0.0329,
+            "frequency": "3.290000000%",
+            "score": 30.395136778115504
+        },
+        {
+            "trait_type": "head",
+            "value": "Trucker",
+            "count": 228,
+            "average": 0.0228,
+            "frequency": "2.280000000%",
+            "score": 43.859649122807014
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 323.75295602028166,
+        "rank": 1189,
+        "harmonic": {
+            "score": "0.308877489%",
+            "rank": 1189
+        }
+    }
+}

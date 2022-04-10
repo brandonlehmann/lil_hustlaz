@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #1663",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/1663.png",
+    "dna": "f0683e41280ab77403682651092780c03f78037b",
+    "edition": 1663,
+    "date": 1639793557065,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "White",
+            "count": 1134,
+            "average": 0.1134,
+            "frequency": "11.340000000%",
+            "score": 8.818342151675484
+        },
+        {
+            "trait_type": "skins",
+            "value": "White",
+            "count": 2396,
+            "average": 0.2396,
+            "frequency": "23.960000000%",
+            "score": 4.173622704507513
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Holy",
+            "count": 443,
+            "average": 0.0443,
+            "frequency": "4.430000000%",
+            "score": 22.573363431151243
+        },
+        {
+            "trait_type": "face",
+            "value": "Scribbles",
+            "count": 419,
+            "average": 0.0419,
+            "frequency": "4.190000000%",
+            "score": 23.86634844868735
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Dermal",
+            "count": 430,
+            "average": 0.043,
+            "frequency": "4.300000000%",
+            "score": 23.255813953488374
+        },
+        {
+            "trait_type": "shirts",
+            "value": "WWB",
+            "count": 229,
+            "average": 0.0229,
+            "frequency": "2.290000000%",
+            "score": 43.66812227074236
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Hypno",
+            "count": 409,
+            "average": 0.0409,
+            "frequency": "4.090000000%",
+            "score": 24.449877750611247
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Bored",
+            "count": 401,
+            "average": 0.0401,
+            "frequency": "4.010000000%",
+            "score": 24.93765586034913
+        },
+        {
+            "trait_type": "head",
+            "value": "Hawk",
+            "count": 416,
+            "average": 0.0416,
+            "frequency": "4.160000000%",
+            "score": 24.03846153846154
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 199.78160810967424,
+        "rank": 8180,
+        "harmonic": {
+            "score": "0.500546577%",
+            "rank": 8180
+        }
+    }
+}

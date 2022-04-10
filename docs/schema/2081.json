@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #2081",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/2081.png",
+    "dna": "1b63968b20f50158d4be21012be7448216622af5",
+    "edition": 2081,
+    "date": 1639793646963,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Blue",
+            "count": 980,
+            "average": 0.098,
+            "frequency": "9.800000000%",
+            "score": 10.204081632653061
+        },
+        {
+            "trait_type": "skins",
+            "value": "Blue",
+            "count": 96,
+            "average": 0.0096,
+            "frequency": "0.960000000%",
+            "score": 104.16666666666667
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Gothic",
+            "count": 825,
+            "average": 0.0825,
+            "frequency": "8.250000000%",
+            "score": 12.121212121212121
+        },
+        {
+            "trait_type": "face",
+            "value": "Scribbles",
+            "count": 419,
+            "average": 0.0419,
+            "frequency": "4.190000000%",
+            "score": 23.86634844868735
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Dolla",
+            "count": 449,
+            "average": 0.0449,
+            "frequency": "4.490000000%",
+            "score": 22.271714922048996
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Scarf",
+            "count": 200,
+            "average": 0.02,
+            "frequency": "2.000000000%",
+            "score": 50
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Crying",
+            "count": 423,
+            "average": 0.0423,
+            "frequency": "4.230000000%",
+            "score": 23.64066193853428
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Bored",
+            "count": 401,
+            "average": 0.0401,
+            "frequency": "4.010000000%",
+            "score": 24.93765586034913
+        },
+        {
+            "trait_type": "head",
+            "value": "Roy G. Biv",
+            "count": 119,
+            "average": 0.0119,
+            "frequency": "1.190000000%",
+            "score": 84.03361344537815
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 355.24195503552977,
+        "rank": 693,
+        "harmonic": {
+            "score": "0.281498282%",
+            "rank": 693
+        }
+    }
+}

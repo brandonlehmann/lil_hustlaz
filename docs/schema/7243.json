@@ -1,0 +1,100 @@
+{
+    "name": "Lil Hustlaz #7243",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/7243.png",
+    "dna": "1514b0298a46b4c1428be766cd4eab4fb4ec8250",
+    "edition": 7243,
+    "date": 1639794725296,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Purple",
+            "count": 970,
+            "average": 0.097,
+            "frequency": "9.700000000%",
+            "score": 10.309278350515463
+        },
+        {
+            "trait_type": "companions",
+            "value": "Slime",
+            "count": 43,
+            "average": 0.0043,
+            "frequency": "0.430000000%",
+            "score": 232.5581395348837
+        },
+        {
+            "trait_type": "skins",
+            "value": "Tan",
+            "count": 2331,
+            "average": 0.2331,
+            "frequency": "23.310000000%",
+            "score": 4.29000429000429
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Yakuza",
+            "count": 480,
+            "average": 0.048,
+            "frequency": "4.800000000%",
+            "score": 20.833333333333332
+        },
+        {
+            "trait_type": "face",
+            "value": "The Bash",
+            "count": 295,
+            "average": 0.0295,
+            "frequency": "2.950000000%",
+            "score": 33.898305084745765
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Dolla",
+            "count": 449,
+            "average": 0.0449,
+            "frequency": "4.490000000%",
+            "score": 22.271714922048996
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Red Nose",
+            "count": 120,
+            "average": 0.012,
+            "frequency": "1.200000000%",
+            "score": 83.33333333333333
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Insomniac",
+            "count": 278,
+            "average": 0.0278,
+            "frequency": "2.780000000%",
+            "score": 35.97122302158274
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Wise",
+            "count": 329,
+            "average": 0.0329,
+            "frequency": "3.290000000%",
+            "score": 30.395136778115504
+        },
+        {
+            "trait_type": "head",
+            "value": "Weekend",
+            "count": 300,
+            "average": 0.03,
+            "frequency": "3.000000000%",
+            "score": 33.333333333333336
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 507.19380198189634,
+        "rank": 123,
+        "harmonic": {
+            "score": "0.197163293%",
+            "rank": 123
+        }
+    }
+}

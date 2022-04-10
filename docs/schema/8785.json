@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #8785",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/8785.png",
+    "dna": "9cb0f772f43ec265d47425415e7a1de128b1dee5",
+    "edition": 8785,
+    "date": 1639795041867,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Red",
+            "count": 968,
+            "average": 0.0968,
+            "frequency": "9.680000000%",
+            "score": 10.330578512396695
+        },
+        {
+            "trait_type": "skins",
+            "value": "Tan",
+            "count": 2331,
+            "average": 0.2331,
+            "frequency": "23.310000000%",
+            "score": 4.29000429000429
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Painter",
+            "count": 207,
+            "average": 0.0207,
+            "frequency": "2.070000000%",
+            "score": 48.309178743961354
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Snake",
+            "count": 310,
+            "average": 0.031,
+            "frequency": "3.100000000%",
+            "score": 32.25806451612903
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Classic",
+            "count": 463,
+            "average": 0.0463,
+            "frequency": "4.630000000%",
+            "score": 21.598272138228943
+        },
+        {
+            "trait_type": "head",
+            "value": "Triple Threat",
+            "count": 316,
+            "average": 0.0316,
+            "frequency": "3.160000000%",
+            "score": 31.645569620253163
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 148.43166782097347,
+        "rank": 9412,
+        "harmonic": {
+            "score": "0.673710681%",
+            "rank": 9412
+        }
+    }
+}

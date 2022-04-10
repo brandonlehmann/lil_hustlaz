@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #6127",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/6127.png",
+    "dna": "5e11461dba3fe546644b8f8fc6f569fe8435b240",
+    "edition": 6127,
+    "date": 1639794485716,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Dark Blue",
+            "count": 1019,
+            "average": 0.1019,
+            "frequency": "10.190000000%",
+            "score": 9.813542688910696
+        },
+        {
+            "trait_type": "skins",
+            "value": "Black",
+            "count": 2391,
+            "average": 0.2391,
+            "frequency": "23.910000000%",
+            "score": 4.182350480970305
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Jean Jacket",
+            "count": 233,
+            "average": 0.0233,
+            "frequency": "2.330000000%",
+            "score": 42.918454935622314
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Insomniac",
+            "count": 278,
+            "average": 0.0278,
+            "frequency": "2.780000000%",
+            "score": 35.97122302158274
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Bored",
+            "count": 401,
+            "average": 0.0401,
+            "frequency": "4.010000000%",
+            "score": 24.93765586034913
+        },
+        {
+            "trait_type": "head",
+            "value": "Samurai",
+            "count": 328,
+            "average": 0.0328,
+            "frequency": "3.280000000%",
+            "score": 30.487804878048777
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 148.31103186548395,
+        "rank": 9416,
+        "harmonic": {
+            "score": "0.674258676%",
+            "rank": 9416
+        }
+    }
+}

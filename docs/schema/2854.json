@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #2854",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/2854.png",
+    "dna": "0dee13a9ce1a638be51703fecf3037e7f8202bb5",
+    "edition": 2854,
+    "date": 1639793813982,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Hotbox",
+            "count": 492,
+            "average": 0.0492,
+            "frequency": "4.920000000%",
+            "score": 20.32520325203252
+        },
+        {
+            "trait_type": "skins",
+            "value": "Lightskin",
+            "count": 2392,
+            "average": 0.2392,
+            "frequency": "23.920000000%",
+            "score": 4.1806020066889635
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Holy",
+            "count": 443,
+            "average": 0.0443,
+            "frequency": "4.430000000%",
+            "score": 22.573363431151243
+        },
+        {
+            "trait_type": "face",
+            "value": "Cryptomaniac",
+            "count": 358,
+            "average": 0.0358,
+            "frequency": "3.580000000%",
+            "score": 27.932960893854748
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Sharp",
+            "count": 378,
+            "average": 0.0378,
+            "frequency": "3.780000000%",
+            "score": 26.455026455026456
+        },
+        {
+            "trait_type": "shirts",
+            "value": "1000 BC",
+            "count": 235,
+            "average": 0.0235,
+            "frequency": "2.350000000%",
+            "score": 42.5531914893617
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Confused",
+            "count": 504,
+            "average": 0.0504,
+            "frequency": "5.040000000%",
+            "score": 19.841269841269842
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Flexin",
+            "count": 303,
+            "average": 0.0303,
+            "frequency": "3.030000000%",
+            "score": 33.003300330033
+        },
+        {
+            "trait_type": "head",
+            "value": "Crumbles",
+            "count": 103,
+            "average": 0.0103,
+            "frequency": "1.030000000%",
+            "score": 97.08737864077669
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 293.9522963401952,
+        "rank": 2101,
+        "harmonic": {
+            "score": "0.340191253%",
+            "rank": 2101
+        }
+    }
+}

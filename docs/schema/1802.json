@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #1802",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/1802.png",
+    "dna": "9469d7053f7067e86de7b2448253e134049d1593",
+    "edition": 1802,
+    "date": 1639793587237,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "White",
+            "count": 1134,
+            "average": 0.1134,
+            "frequency": "11.340000000%",
+            "score": 8.818342151675484
+        },
+        {
+            "trait_type": "skins",
+            "value": "Lightskin",
+            "count": 2392,
+            "average": 0.2392,
+            "frequency": "23.920000000%",
+            "score": 4.1806020066889635
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Holy",
+            "count": 443,
+            "average": 0.0443,
+            "frequency": "4.430000000%",
+            "score": 22.573363431151243
+        },
+        {
+            "trait_type": "face",
+            "value": "Numb",
+            "count": 289,
+            "average": 0.0289,
+            "frequency": "2.890000000%",
+            "score": 34.602076124567475
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Nostril",
+            "count": 361,
+            "average": 0.0361,
+            "frequency": "3.610000000%",
+            "score": 27.700831024930746
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Revenge",
+            "count": 90,
+            "average": 0.009,
+            "frequency": "0.900000000%",
+            "score": 111.11111111111111
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Sharingan",
+            "count": 372,
+            "average": 0.0372,
+            "frequency": "3.720000000%",
+            "score": 26.881720430107528
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Classic",
+            "count": 463,
+            "average": 0.0463,
+            "frequency": "4.630000000%",
+            "score": 21.598272138228943
+        },
+        {
+            "trait_type": "head",
+            "value": "Frosted",
+            "count": 425,
+            "average": 0.0425,
+            "frequency": "4.250000000%",
+            "score": 23.52941176470588
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 280.9957301831673,
+        "rank": 2713,
+        "harmonic": {
+            "score": "0.355877294%",
+            "rank": 2713
+        }
+    }
+}

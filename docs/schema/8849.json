@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #8849",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/8849.png",
+    "dna": "ee165158f5c051463119592d5cec7f5a1df6673c",
+    "edition": 8849,
+    "date": 1639795052734,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "White",
+            "count": 1134,
+            "average": 0.1134,
+            "frequency": "11.340000000%",
+            "score": 8.818342151675484
+        },
+        {
+            "trait_type": "skins",
+            "value": "Black",
+            "count": 2391,
+            "average": 0.2391,
+            "frequency": "23.910000000%",
+            "score": 4.182350480970305
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Rockin",
+            "count": 98,
+            "average": 0.0098,
+            "frequency": "0.980000000%",
+            "score": 102.04081632653062
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Snake",
+            "count": 310,
+            "average": 0.031,
+            "frequency": "3.100000000%",
+            "score": 32.25806451612903
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Snarl",
+            "count": 298,
+            "average": 0.0298,
+            "frequency": "2.980000000%",
+            "score": 33.557046979865774
+        },
+        {
+            "trait_type": "head",
+            "value": "90 Degrees",
+            "count": 302,
+            "average": 0.0302,
+            "frequency": "3.020000000%",
+            "score": 33.11258278145695
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 213.96920323662815,
+        "rank": 7098,
+        "harmonic": {
+            "score": "0.467356977%",
+            "rank": 7098
+        }
+    }
+}

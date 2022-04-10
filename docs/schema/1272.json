@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #1272",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/1272.png",
+    "dna": "8b18f54ffc0e3ceea3619ac30fc07c60aaf66b8f",
+    "edition": 1272,
+    "date": 1639793472799,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Purple",
+            "count": 970,
+            "average": 0.097,
+            "frequency": "9.700000000%",
+            "score": 10.309278350515463
+        },
+        {
+            "trait_type": "skins",
+            "value": "Black",
+            "count": 2391,
+            "average": 0.2391,
+            "frequency": "23.910000000%",
+            "score": 4.182350480970305
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Ready 2 Die",
+            "count": 520,
+            "average": 0.052,
+            "frequency": "5.200000000%",
+            "score": 19.23076923076923
+        },
+        {
+            "trait_type": "face",
+            "value": "96",
+            "count": 289,
+            "average": 0.0289,
+            "frequency": "2.890000000%",
+            "score": 34.602076124567475
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Star",
+            "count": 357,
+            "average": 0.0357,
+            "frequency": "3.570000000%",
+            "score": 28.011204481792713
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Gold Everything",
+            "count": 218,
+            "average": 0.0218,
+            "frequency": "2.180000000%",
+            "score": 45.87155963302752
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Rolling",
+            "count": 478,
+            "average": 0.0478,
+            "frequency": "4.780000000%",
+            "score": 20.920502092050206
+        },
+        {
+            "trait_type": "mouths",
+            "value": "COVID",
+            "count": 402,
+            "average": 0.0402,
+            "frequency": "4.020000000%",
+            "score": 24.875621890547265
+        },
+        {
+            "trait_type": "head",
+            "value": "Bandit",
+            "count": 227,
+            "average": 0.0227,
+            "frequency": "2.270000000%",
+            "score": 44.052863436123346
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 232.05622572036356,
+        "rank": 5481,
+        "harmonic": {
+            "score": "0.430930046%",
+            "rank": 5481
+        }
+    }
+}

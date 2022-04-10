@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #8456",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/8456.png",
+    "dna": "b9de0867808c2ae6202b5a07d6619dffbd497d73",
+    "edition": 8456,
+    "date": 1639794984510,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Red",
+            "count": 968,
+            "average": 0.0968,
+            "frequency": "9.680000000%",
+            "score": 10.330578512396695
+        },
+        {
+            "trait_type": "skins",
+            "value": "Black",
+            "count": 2391,
+            "average": 0.2391,
+            "frequency": "23.910000000%",
+            "score": 4.182350480970305
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Trackstar",
+            "count": 103,
+            "average": 0.0103,
+            "frequency": "1.030000000%",
+            "score": 97.08737864077669
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Uzi",
+            "count": 91,
+            "average": 0.0091,
+            "frequency": "0.910000000%",
+            "score": 109.89010989010988
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Blunt",
+            "count": 337,
+            "average": 0.0337,
+            "frequency": "3.370000000%",
+            "score": 29.673590504451038
+        },
+        {
+            "trait_type": "head",
+            "value": "Ty",
+            "count": 111,
+            "average": 0.0111,
+            "frequency": "1.110000000%",
+            "score": 90.09009009009009
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 341.2540981187947,
+        "rank": 871,
+        "harmonic": {
+            "score": "0.293036774%",
+            "rank": 871
+        }
+    }
+}

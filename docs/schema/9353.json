@@ -1,0 +1,76 @@
+{
+    "name": "Lil Hustlaz #9353",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/9353.png",
+    "dna": "fbd1d8e2a04779be5fd1f0285232baef307733c7",
+    "edition": 9353,
+    "date": 1639795140027,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Orange",
+            "count": 1015,
+            "average": 0.1015,
+            "frequency": "10.150000000%",
+            "score": 9.852216748768472
+        },
+        {
+            "trait_type": "skins",
+            "value": "Black",
+            "count": 2391,
+            "average": 0.2391,
+            "frequency": "23.910000000%",
+            "score": 4.182350480970305
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Eagle",
+            "count": 418,
+            "average": 0.0418,
+            "frequency": "4.180000000%",
+            "score": 23.923444976076556
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Muscle Beach",
+            "count": 239,
+            "average": 0.0239,
+            "frequency": "2.390000000%",
+            "score": 41.84100418410041
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Crying",
+            "count": 423,
+            "average": 0.0423,
+            "frequency": "4.230000000%",
+            "score": 23.64066193853428
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Pierced",
+            "count": 259,
+            "average": 0.0259,
+            "frequency": "2.590000000%",
+            "score": 38.61003861003861
+        },
+        {
+            "trait_type": "head",
+            "value": "Frosted",
+            "count": 425,
+            "average": 0.0425,
+            "frequency": "4.250000000%",
+            "score": 23.52941176470588
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 165.57912870319453,
+        "rank": 9037,
+        "harmonic": {
+            "score": "0.603940852%",
+            "rank": 9037
+        }
+    }
+}

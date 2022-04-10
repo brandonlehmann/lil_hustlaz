@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #1684",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/1684.png",
+    "dna": "c4af72285ebfff7fc6a1dfbccffe2018742fc6ee",
+    "edition": 1684,
+    "date": 1639793561337,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Pink",
+            "count": 996,
+            "average": 0.0996,
+            "frequency": "9.960000000%",
+            "score": 10.040160642570282
+        },
+        {
+            "trait_type": "skins",
+            "value": "Tan",
+            "count": 2331,
+            "average": 0.2331,
+            "frequency": "23.310000000%",
+            "score": 4.29000429000429
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Mob",
+            "count": 166,
+            "average": 0.0166,
+            "frequency": "1.660000000%",
+            "score": 60.24096385542168
+        },
+        {
+            "trait_type": "face",
+            "value": "Scribbles",
+            "count": 419,
+            "average": 0.0419,
+            "frequency": "4.190000000%",
+            "score": 23.86634844868735
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Dolla",
+            "count": 449,
+            "average": 0.0449,
+            "frequency": "4.490000000%",
+            "score": 22.271714922048996
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Trackstar",
+            "count": 103,
+            "average": 0.0103,
+            "frequency": "1.030000000%",
+            "score": 97.08737864077669
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Button",
+            "count": 369,
+            "average": 0.0369,
+            "frequency": "3.690000000%",
+            "score": 27.100271002710027
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Blunt",
+            "count": 337,
+            "average": 0.0337,
+            "frequency": "3.370000000%",
+            "score": 29.673590504451038
+        },
+        {
+            "trait_type": "head",
+            "value": "Cozy",
+            "count": 214,
+            "average": 0.0214,
+            "frequency": "2.140000000%",
+            "score": 46.728971962616825
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 321.2994042692872,
+        "rank": 1249,
+        "harmonic": {
+            "score": "0.311236182%",
+            "rank": 1249
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #8160",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/8160.png",
+    "dna": "3f7cbfc5b70fbf7bc9b9bb048509eec47127f3f3",
+    "edition": 8160,
+    "date": 1639794926882,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Red",
+            "count": 968,
+            "average": 0.0968,
+            "frequency": "9.680000000%",
+            "score": 10.330578512396695
+        },
+        {
+            "trait_type": "skins",
+            "value": "Tan",
+            "count": 2331,
+            "average": 0.2331,
+            "frequency": "23.310000000%",
+            "score": 4.29000429000429
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Yakuza",
+            "count": 480,
+            "average": 0.048,
+            "frequency": "4.800000000%",
+            "score": 20.833333333333332
+        },
+        {
+            "trait_type": "face",
+            "value": "Spida",
+            "count": 314,
+            "average": 0.0314,
+            "frequency": "3.140000000%",
+            "score": 31.847133757961785
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Kitchen Sink",
+            "count": 368,
+            "average": 0.0368,
+            "frequency": "3.680000000%",
+            "score": 27.17391304347826
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Revenge",
+            "count": 90,
+            "average": 0.009,
+            "frequency": "0.900000000%",
+            "score": 111.11111111111111
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Serious",
+            "count": 492,
+            "average": 0.0492,
+            "frequency": "4.920000000%",
+            "score": 20.32520325203252
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Cigarette",
+            "count": 179,
+            "average": 0.0179,
+            "frequency": "1.790000000%",
+            "score": 55.865921787709496
+        },
+        {
+            "trait_type": "head",
+            "value": "The Fro",
+            "count": 203,
+            "average": 0.0203,
+            "frequency": "2.030000000%",
+            "score": 49.26108374384237
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 331.0382828318699,
+        "rank": 1031,
+        "harmonic": {
+            "score": "0.302079866%",
+            "rank": 1031
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #1397",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/1397.png",
+    "dna": "b67e322488e50821afb852572e547ca2b8769fe2",
+    "edition": 1397,
+    "date": 1639793500253,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Static",
+            "count": 316,
+            "average": 0.0316,
+            "frequency": "3.160000000%",
+            "score": 31.645569620253163
+        },
+        {
+            "trait_type": "skins",
+            "value": "Black",
+            "count": 2391,
+            "average": 0.2391,
+            "frequency": "23.910000000%",
+            "score": 4.182350480970305
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Only God",
+            "count": 407,
+            "average": 0.0407,
+            "frequency": "4.070000000%",
+            "score": 24.57002457002457
+        },
+        {
+            "trait_type": "face",
+            "value": "Baller",
+            "count": 271,
+            "average": 0.0271,
+            "frequency": "2.710000000%",
+            "score": 36.90036900369004
+        },
+        {
+            "trait_type": "piercings",
+            "value": "The Calf",
+            "count": 435,
+            "average": 0.0435,
+            "frequency": "4.350000000%",
+            "score": 22.98850574712644
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Knit Sweater",
+            "count": 206,
+            "average": 0.0206,
+            "frequency": "2.060000000%",
+            "score": 48.543689320388346
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Tatted",
+            "count": 290,
+            "average": 0.029,
+            "frequency": "2.900000000%",
+            "score": 34.48275862068965
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Bonjour",
+            "count": 204,
+            "average": 0.0204,
+            "frequency": "2.040000000%",
+            "score": 49.01960784313725
+        },
+        {
+            "trait_type": "head",
+            "value": "Hawk",
+            "count": 416,
+            "average": 0.0416,
+            "frequency": "4.160000000%",
+            "score": 24.03846153846154
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 276.3713367447413,
+        "rank": 2965,
+        "harmonic": {
+            "score": "0.361832023%",
+            "rank": 2965
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #312",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/312.png",
+    "dna": "ba60c2c59308e526eddcac967f47bdfe0e780abc",
+    "edition": 312,
+    "date": 1639793262763,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "White",
+            "count": 1134,
+            "average": 0.1134,
+            "frequency": "11.340000000%",
+            "score": 8.818342151675484
+        },
+        {
+            "trait_type": "skins",
+            "value": "Green",
+            "count": 102,
+            "average": 0.0102,
+            "frequency": "1.020000000%",
+            "score": 98.0392156862745
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Gothic",
+            "count": 825,
+            "average": 0.0825,
+            "frequency": "8.250000000%",
+            "score": 12.121212121212121
+        },
+        {
+            "trait_type": "face",
+            "value": "I AM",
+            "count": 316,
+            "average": 0.0316,
+            "frequency": "3.160000000%",
+            "score": 31.645569620253163
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Double Stud",
+            "count": 370,
+            "average": 0.037,
+            "frequency": "3.700000000%",
+            "score": 27.027027027027028
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Jean Jacket",
+            "count": 233,
+            "average": 0.0233,
+            "frequency": "2.330000000%",
+            "score": 42.918454935622314
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Serious",
+            "count": 492,
+            "average": 0.0492,
+            "frequency": "4.920000000%",
+            "score": 20.32520325203252
+        },
+        {
+            "trait_type": "mouths",
+            "value": "COVID",
+            "count": 402,
+            "average": 0.0402,
+            "frequency": "4.020000000%",
+            "score": 24.875621890547265
+        },
+        {
+            "trait_type": "head",
+            "value": "Cozy",
+            "count": 214,
+            "average": 0.0214,
+            "frequency": "2.140000000%",
+            "score": 46.728971962616825
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 312.49961864726123,
+        "rank": 1454,
+        "harmonic": {
+            "score": "0.320000391%",
+            "rank": 1454
+        }
+    }
+}

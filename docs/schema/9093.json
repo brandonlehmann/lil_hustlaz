@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #9093",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/9093.png",
+    "dna": "901cd471d217af52fa27b9b2c77673b629306a56",
+    "edition": 9093,
+    "date": 1639795094645,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "White",
+            "count": 1134,
+            "average": 0.1134,
+            "frequency": "11.340000000%",
+            "score": 8.818342151675484
+        },
+        {
+            "trait_type": "skins",
+            "value": "White",
+            "count": 2396,
+            "average": 0.2396,
+            "frequency": "23.960000000%",
+            "score": 4.173622704507513
+        },
+        {
+            "trait_type": "shirts",
+            "value": "All State",
+            "count": 230,
+            "average": 0.023,
+            "frequency": "2.300000000%",
+            "score": 43.47826086956522
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Sharingan",
+            "count": 372,
+            "average": 0.0372,
+            "frequency": "3.720000000%",
+            "score": 26.881720430107528
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Snarl",
+            "count": 298,
+            "average": 0.0298,
+            "frequency": "2.980000000%",
+            "score": 33.557046979865774
+        },
+        {
+            "trait_type": "head",
+            "value": "Classy",
+            "count": 332,
+            "average": 0.0332,
+            "frequency": "3.320000000%",
+            "score": 30.12048192771084
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 147.02947506343236,
+        "rank": 9445,
+        "harmonic": {
+            "score": "0.680135734%",
+            "rank": 9445
+        }
+    }
+}

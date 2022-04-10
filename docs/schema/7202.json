@@ -1,0 +1,100 @@
+{
+    "name": "Lil Hustlaz #7202",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/7202.png",
+    "dna": "f0f7b34952347c5fca4a4f29ff853cc3c0a337d8",
+    "edition": 7202,
+    "date": 1639794714523,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Red",
+            "count": 968,
+            "average": 0.0968,
+            "frequency": "9.680000000%",
+            "score": 10.330578512396695
+        },
+        {
+            "trait_type": "companions",
+            "value": "Ribbet",
+            "count": 35,
+            "average": 0.0035,
+            "frequency": "0.350000000%",
+            "score": 285.7142857142857
+        },
+        {
+            "trait_type": "skins",
+            "value": "Tan",
+            "count": 2331,
+            "average": 0.2331,
+            "frequency": "23.310000000%",
+            "score": 4.29000429000429
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Flowers",
+            "count": 625,
+            "average": 0.0625,
+            "frequency": "6.250000000%",
+            "score": 16
+        },
+        {
+            "trait_type": "face",
+            "value": "Cry Later",
+            "count": 311,
+            "average": 0.0311,
+            "frequency": "3.110000000%",
+            "score": 32.154340836012864
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Bridge",
+            "count": 459,
+            "average": 0.0459,
+            "frequency": "4.590000000%",
+            "score": 21.78649237472767
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Senior",
+            "count": 102,
+            "average": 0.0102,
+            "frequency": "1.020000000%",
+            "score": 98.0392156862745
+        },
+        {
+            "trait_type": "eyes",
+            "value": "On Fire",
+            "count": 106,
+            "average": 0.0106,
+            "frequency": "1.060000000%",
+            "score": 94.33962264150944
+        },
+        {
+            "trait_type": "mouths",
+            "value": "GOATee",
+            "count": 380,
+            "average": 0.038,
+            "frequency": "3.800000000%",
+            "score": 26.315789473684212
+        },
+        {
+            "trait_type": "head",
+            "value": "Killua",
+            "count": 221,
+            "average": 0.0221,
+            "frequency": "2.210000000%",
+            "score": 45.24886877828054
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 634.2191983071759,
+        "rank": 14,
+        "harmonic": {
+            "score": "0.157674193%",
+            "rank": 14
+        }
+    }
+}

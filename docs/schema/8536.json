@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #8536",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/8536.png",
+    "dna": "c6d0ab5d4ca788d80b98d734aa2c03fb60e99d7e",
+    "edition": 8536,
+    "date": 1639794998471,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Pink",
+            "count": 996,
+            "average": 0.0996,
+            "frequency": "9.960000000%",
+            "score": 10.040160642570282
+        },
+        {
+            "trait_type": "skins",
+            "value": "Tan",
+            "count": 2331,
+            "average": 0.2331,
+            "frequency": "23.310000000%",
+            "score": 4.29000429000429
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Play Ball",
+            "count": 281,
+            "average": 0.0281,
+            "frequency": "2.810000000%",
+            "score": 35.587188612099645
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Sharingan",
+            "count": 372,
+            "average": 0.0372,
+            "frequency": "3.720000000%",
+            "score": 26.881720430107528
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Blunt",
+            "count": 337,
+            "average": 0.0337,
+            "frequency": "3.370000000%",
+            "score": 29.673590504451038
+        },
+        {
+            "trait_type": "head",
+            "value": "Top Knot",
+            "count": 189,
+            "average": 0.0189,
+            "frequency": "1.890000000%",
+            "score": 52.91005291005291
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 159.3827173892857,
+        "rank": 9174,
+        "harmonic": {
+            "score": "0.627420599%",
+            "rank": 9174
+        }
+    }
+}

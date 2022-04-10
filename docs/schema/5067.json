@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #5067",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/5067.png",
+    "dna": "14c789556d0c46f8874f05fff69ebd2fcaf25bfc",
+    "edition": 5067,
+    "date": 1639794293132,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Dark Blue",
+            "count": 1019,
+            "average": 0.1019,
+            "frequency": "10.190000000%",
+            "score": 9.813542688910696
+        },
+        {
+            "trait_type": "skins",
+            "value": "Lightskin",
+            "count": 2392,
+            "average": 0.2392,
+            "frequency": "23.920000000%",
+            "score": 4.1806020066889635
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Slytherin",
+            "count": 395,
+            "average": 0.0395,
+            "frequency": "3.950000000%",
+            "score": 25.31645569620253
+        },
+        {
+            "trait_type": "face",
+            "value": "Death Before Dishonor",
+            "count": 275,
+            "average": 0.0275,
+            "frequency": "2.750000000%",
+            "score": 36.36363636363637
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Nostril",
+            "count": 361,
+            "average": 0.0361,
+            "frequency": "3.610000000%",
+            "score": 27.700831024930746
+        },
+        {
+            "trait_type": "shirts",
+            "value": "BWB",
+            "count": 177,
+            "average": 0.0177,
+            "frequency": "1.770000000%",
+            "score": 56.497175141242934
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Crossed",
+            "count": 522,
+            "average": 0.0522,
+            "frequency": "5.220000000%",
+            "score": 19.157088122605362
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Smile",
+            "count": 516,
+            "average": 0.0516,
+            "frequency": "5.160000000%",
+            "score": 19.37984496124031
+        },
+        {
+            "trait_type": "head",
+            "value": "Snapback",
+            "count": 393,
+            "average": 0.0393,
+            "frequency": "3.930000000%",
+            "score": 25.44529262086514
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 223.85446862632304,
+        "rank": 6224,
+        "harmonic": {
+            "score": "0.446718802%",
+            "rank": 6224
+        }
+    }
+}

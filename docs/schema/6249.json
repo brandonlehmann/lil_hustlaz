@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #6249",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/6249.png",
+    "dna": "fb402323137ab5cf159ec4275da396293c4134c0",
+    "edition": 6249,
+    "date": 1639794508585,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Purple",
+            "count": 970,
+            "average": 0.097,
+            "frequency": "9.700000000%",
+            "score": 10.309278350515463
+        },
+        {
+            "trait_type": "skins",
+            "value": "Black",
+            "count": 2391,
+            "average": 0.2391,
+            "frequency": "23.910000000%",
+            "score": 4.182350480970305
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Dream Chaser",
+            "count": 767,
+            "average": 0.0767,
+            "frequency": "7.670000000%",
+            "score": 13.037809647979138
+        },
+        {
+            "trait_type": "face",
+            "value": "Hundo",
+            "count": 382,
+            "average": 0.0382,
+            "frequency": "3.820000000%",
+            "score": 26.17801047120419
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Killer Combo",
+            "count": 355,
+            "average": 0.0355,
+            "frequency": "3.550000000%",
+            "score": 28.169014084507044
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Farmer",
+            "count": 199,
+            "average": 0.0199,
+            "frequency": "1.990000000%",
+            "score": 50.25125628140703
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Crossed",
+            "count": 522,
+            "average": 0.0522,
+            "frequency": "5.220000000%",
+            "score": 19.157088122605362
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Pissed",
+            "count": 320,
+            "average": 0.032,
+            "frequency": "3.200000000%",
+            "score": 31.25
+        },
+        {
+            "trait_type": "head",
+            "value": "Gramps",
+            "count": 110,
+            "average": 0.011,
+            "frequency": "1.100000000%",
+            "score": 90.90909090909092
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 273.44389834827945,
+        "rank": 3120,
+        "harmonic": {
+            "score": "0.365705728%",
+            "rank": 3120
+        }
+    }
+}

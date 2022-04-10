@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #4641",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/4641.png",
+    "dna": "0c8d5a0adb054f724034a4643e72a4998a27921e",
+    "edition": 4641,
+    "date": 1639794200230,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Purple",
+            "count": 970,
+            "average": 0.097,
+            "frequency": "9.700000000%",
+            "score": 10.309278350515463
+        },
+        {
+            "trait_type": "skins",
+            "value": "Tan",
+            "count": 2331,
+            "average": 0.2331,
+            "frequency": "23.310000000%",
+            "score": 4.29000429000429
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Holy",
+            "count": 443,
+            "average": 0.0443,
+            "frequency": "4.430000000%",
+            "score": 22.573363431151243
+        },
+        {
+            "trait_type": "face",
+            "value": "Scribbles",
+            "count": 419,
+            "average": 0.0419,
+            "frequency": "4.190000000%",
+            "score": 23.86634844868735
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Rock",
+            "count": 423,
+            "average": 0.0423,
+            "frequency": "4.230000000%",
+            "score": 23.64066193853428
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Holographic",
+            "count": 104,
+            "average": 0.0104,
+            "frequency": "1.040000000%",
+            "score": 96.15384615384616
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Neo",
+            "count": 310,
+            "average": 0.031,
+            "frequency": "3.100000000%",
+            "score": 32.25806451612903
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Toothpick",
+            "count": 406,
+            "average": 0.0406,
+            "frequency": "4.060000000%",
+            "score": 24.630541871921185
+        },
+        {
+            "trait_type": "head",
+            "value": "Bluerag",
+            "count": 223,
+            "average": 0.0223,
+            "frequency": "2.230000000%",
+            "score": 44.84304932735426
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 282.56515832814324,
+        "rank": 2642,
+        "harmonic": {
+            "score": "0.353900674%",
+            "rank": 2642
+        }
+    }
+}

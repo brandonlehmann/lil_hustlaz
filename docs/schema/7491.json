@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #7491",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/7491.png",
+    "dna": "41c314503f446be4cd9a962109cabbd5229d6a81",
+    "edition": 7491,
+    "date": 1639794782790,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Orange",
+            "count": 1015,
+            "average": 0.1015,
+            "frequency": "10.150000000%",
+            "score": 9.852216748768472
+        },
+        {
+            "trait_type": "skins",
+            "value": "Lightskin",
+            "count": 2392,
+            "average": 0.2392,
+            "frequency": "23.920000000%",
+            "score": 4.1806020066889635
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Yakuza",
+            "count": 480,
+            "average": 0.048,
+            "frequency": "4.800000000%",
+            "score": 20.833333333333332
+        },
+        {
+            "trait_type": "face",
+            "value": "Baller",
+            "count": 271,
+            "average": 0.0271,
+            "frequency": "2.710000000%",
+            "score": 36.90036900369004
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Nose Piece",
+            "count": 366,
+            "average": 0.0366,
+            "frequency": "3.660000000%",
+            "score": 27.3224043715847
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Holographic",
+            "count": 104,
+            "average": 0.0104,
+            "frequency": "1.040000000%",
+            "score": 96.15384615384616
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Villain",
+            "count": 87,
+            "average": 0.0087,
+            "frequency": "0.870000000%",
+            "score": 114.9425287356322
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Wise",
+            "count": 329,
+            "average": 0.0329,
+            "frequency": "3.290000000%",
+            "score": 30.395136778115504
+        },
+        {
+            "trait_type": "head",
+            "value": "Visor",
+            "count": 308,
+            "average": 0.0308,
+            "frequency": "3.080000000%",
+            "score": 32.467532467532465
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 373.04796959919184,
+        "rank": 514,
+        "harmonic": {
+            "score": "0.268062041%",
+            "rank": 514
+        }
+    }
+}

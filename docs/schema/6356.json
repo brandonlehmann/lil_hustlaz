@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #6356",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/6356.png",
+    "dna": "99f1b77de135a07f34cd223899c804b783a25efe",
+    "edition": 6356,
+    "date": 1639794531211,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Yellow",
+            "count": 998,
+            "average": 0.0998,
+            "frequency": "9.980000000%",
+            "score": 10.02004008016032
+        },
+        {
+            "trait_type": "skins",
+            "value": "Lightskin",
+            "count": 2392,
+            "average": 0.2392,
+            "frequency": "23.920000000%",
+            "score": 4.1806020066889635
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "412",
+            "count": 436,
+            "average": 0.0436,
+            "frequency": "4.360000000%",
+            "score": 22.93577981651376
+        },
+        {
+            "trait_type": "face",
+            "value": "Get Rich",
+            "count": 420,
+            "average": 0.042,
+            "frequency": "4.200000000%",
+            "score": 23.809523809523807
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Sharp",
+            "count": 378,
+            "average": 0.0378,
+            "frequency": "3.780000000%",
+            "score": 26.455026455026456
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Stay Warm",
+            "count": 106,
+            "average": 0.0106,
+            "frequency": "1.060000000%",
+            "score": 94.33962264150944
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Goggles",
+            "count": 221,
+            "average": 0.0221,
+            "frequency": "2.210000000%",
+            "score": 45.24886877828054
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Reptile",
+            "count": 95,
+            "average": 0.0095,
+            "frequency": "0.950000000%",
+            "score": 105.26315789473685
+        },
+        {
+            "trait_type": "head",
+            "value": "Samurai",
+            "count": 328,
+            "average": 0.0328,
+            "frequency": "3.280000000%",
+            "score": 30.487804878048777
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 362.740426360489,
+        "rank": 604,
+        "harmonic": {
+            "score": "0.275679226%",
+            "rank": 604
+        }
+    }
+}

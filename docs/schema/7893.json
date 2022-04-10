@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #7893",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/7893.png",
+    "dna": "d5e2531158c703f02c1da20fd11ece244610dd0b",
+    "edition": 7893,
+    "date": 1639794869464,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Red",
+            "count": 968,
+            "average": 0.0968,
+            "frequency": "9.680000000%",
+            "score": 10.330578512396695
+        },
+        {
+            "trait_type": "skins",
+            "value": "Lightskin",
+            "count": 2392,
+            "average": 0.2392,
+            "frequency": "23.920000000%",
+            "score": 4.1806020066889635
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Gothic",
+            "count": 825,
+            "average": 0.0825,
+            "frequency": "8.250000000%",
+            "score": 12.121212121212121
+        },
+        {
+            "trait_type": "face",
+            "value": "Baller",
+            "count": 271,
+            "average": 0.0271,
+            "frequency": "2.710000000%",
+            "score": 36.90036900369004
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Gold Stud",
+            "count": 379,
+            "average": 0.0379,
+            "frequency": "3.790000000%",
+            "score": 26.38522427440633
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Tuddies",
+            "count": 122,
+            "average": 0.0122,
+            "frequency": "1.220000000%",
+            "score": 81.96721311475409
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Basic",
+            "count": 503,
+            "average": 0.0503,
+            "frequency": "5.030000000%",
+            "score": 19.880715705765407
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Flexin",
+            "count": 303,
+            "average": 0.0303,
+            "frequency": "3.030000000%",
+            "score": 33.003300330033
+        },
+        {
+            "trait_type": "head",
+            "value": "Pomade",
+            "count": 399,
+            "average": 0.0399,
+            "frequency": "3.990000000%",
+            "score": 25.06265664160401
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 249.83187171055064,
+        "rank": 4301,
+        "harmonic": {
+            "score": "0.400269186%",
+            "rank": 4301
+        }
+    }
+}

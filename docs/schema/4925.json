@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #4925",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/4925.png",
+    "dna": "2f9215ad119e378c57580b4c4916185e46c9b574",
+    "edition": 4925,
+    "date": 1639794262245,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Pink",
+            "count": 996,
+            "average": 0.0996,
+            "frequency": "9.960000000%",
+            "score": 10.040160642570282
+        },
+        {
+            "trait_type": "skins",
+            "value": "Black",
+            "count": 2391,
+            "average": 0.2391,
+            "frequency": "23.910000000%",
+            "score": 4.182350480970305
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Ballin",
+            "count": 424,
+            "average": 0.0424,
+            "frequency": "4.240000000%",
+            "score": 23.58490566037736
+        },
+        {
+            "trait_type": "face",
+            "value": "Get Rich",
+            "count": 420,
+            "average": 0.042,
+            "frequency": "4.200000000%",
+            "score": 23.809523809523807
+        },
+        {
+            "trait_type": "piercings",
+            "value": "STFU",
+            "count": 393,
+            "average": 0.0393,
+            "frequency": "3.930000000%",
+            "score": 25.44529262086514
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Home Run",
+            "count": 109,
+            "average": 0.0109,
+            "frequency": "1.090000000%",
+            "score": 91.74311926605505
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Cyclops",
+            "count": 117,
+            "average": 0.0117,
+            "frequency": "1.170000000%",
+            "score": 85.47008547008546
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Drool",
+            "count": 433,
+            "average": 0.0433,
+            "frequency": "4.330000000%",
+            "score": 23.094688221709006
+        },
+        {
+            "trait_type": "head",
+            "value": "Beanie",
+            "count": 422,
+            "average": 0.0422,
+            "frequency": "4.220000000%",
+            "score": 23.696682464454977
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 311.06680863661137,
+        "rank": 1504,
+        "harmonic": {
+            "score": "0.321474350%",
+            "rank": 1504
+        }
+    }
+}

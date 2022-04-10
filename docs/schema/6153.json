@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #6153",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/6153.png",
+    "dna": "2379ffb5cd09f61e2600a7f8370eb941d4aa5039",
+    "edition": 6153,
+    "date": 1639794490105,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Hotbox",
+            "count": 492,
+            "average": 0.0492,
+            "frequency": "4.920000000%",
+            "score": 20.32520325203252
+        },
+        {
+            "trait_type": "skins",
+            "value": "Tan",
+            "count": 2331,
+            "average": 0.2331,
+            "frequency": "23.310000000%",
+            "score": 4.29000429000429
+        },
+        {
+            "trait_type": "shirts",
+            "value": "All State",
+            "count": 230,
+            "average": 0.023,
+            "frequency": "2.300000000%",
+            "score": 43.47826086956522
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Cyclops",
+            "count": 117,
+            "average": 0.0117,
+            "frequency": "1.170000000%",
+            "score": 85.47008547008546
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Smirk",
+            "count": 286,
+            "average": 0.0286,
+            "frequency": "2.860000000%",
+            "score": 34.96503496503497
+        },
+        {
+            "trait_type": "head",
+            "value": "Crumbles",
+            "count": 103,
+            "average": 0.0103,
+            "frequency": "1.030000000%",
+            "score": 97.08737864077669
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 285.6159674874991,
+        "rank": 2516,
+        "harmonic": {
+            "score": "0.350120481%",
+            "rank": 2516
+        }
+    }
+}

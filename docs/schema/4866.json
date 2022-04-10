@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #4866",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/4866.png",
+    "dna": "a7fd16c668d469acf3e4d9908a3f7664a1e7f316",
+    "edition": 4866,
+    "date": 1639794249547,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Diamond",
+            "count": 106,
+            "average": 0.0106,
+            "frequency": "1.060000000%",
+            "score": 94.33962264150944
+        },
+        {
+            "trait_type": "skins",
+            "value": "Lightskin",
+            "count": 2392,
+            "average": 0.2392,
+            "frequency": "23.920000000%",
+            "score": 4.1806020066889635
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Cash Rules",
+            "count": 350,
+            "average": 0.035,
+            "frequency": "3.500000000%",
+            "score": 28.57142857142857
+        },
+        {
+            "trait_type": "face",
+            "value": "Death Before Dishonor",
+            "count": 275,
+            "average": 0.0275,
+            "frequency": "2.750000000%",
+            "score": 36.36363636363637
+        },
+        {
+            "trait_type": "piercings",
+            "value": "STFU",
+            "count": 393,
+            "average": 0.0393,
+            "frequency": "3.930000000%",
+            "score": 25.44529262086514
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Unzipped",
+            "count": 239,
+            "average": 0.0239,
+            "frequency": "2.390000000%",
+            "score": 41.84100418410041
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Snake",
+            "count": 310,
+            "average": 0.031,
+            "frequency": "3.100000000%",
+            "score": 32.25806451612903
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Drool",
+            "count": 433,
+            "average": 0.0433,
+            "frequency": "4.330000000%",
+            "score": 23.094688221709006
+        },
+        {
+            "trait_type": "head",
+            "value": "Bluerag",
+            "count": 223,
+            "average": 0.0223,
+            "frequency": "2.230000000%",
+            "score": 44.84304932735426
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 330.9373884534212,
+        "rank": 1034,
+        "harmonic": {
+            "score": "0.302171962%",
+            "rank": 1034
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #5563",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/5563.png",
+    "dna": "5acbafb9fba4c883e4957c4b89e345187e7fcf91",
+    "edition": 5563,
+    "date": 1639794389029,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Purple",
+            "count": 970,
+            "average": 0.097,
+            "frequency": "9.700000000%",
+            "score": 10.309278350515463
+        },
+        {
+            "trait_type": "skins",
+            "value": "Lightskin",
+            "count": 2392,
+            "average": 0.2392,
+            "frequency": "23.920000000%",
+            "score": 4.1806020066889635
+        },
+        {
+            "trait_type": "shirts",
+            "value": "I DONT SMOKE",
+            "count": 224,
+            "average": 0.0224,
+            "frequency": "2.240000000%",
+            "score": 44.642857142857146
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Meditating",
+            "count": 315,
+            "average": 0.0315,
+            "frequency": "3.150000000%",
+            "score": 31.746031746031747
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Tongue",
+            "count": 372,
+            "average": 0.0372,
+            "frequency": "3.720000000%",
+            "score": 26.881720430107528
+        },
+        {
+            "trait_type": "head",
+            "value": "Pomade",
+            "count": 399,
+            "average": 0.0399,
+            "frequency": "3.990000000%",
+            "score": 25.06265664160401
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 142.82314631780486,
+        "rank": 9544,
+        "harmonic": {
+            "score": "0.700166623%",
+            "rank": 9544
+        }
+    }
+}

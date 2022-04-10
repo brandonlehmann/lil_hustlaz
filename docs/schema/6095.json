@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #6095",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/6095.png",
+    "dna": "87d90ea53d2082eca6017f86f5bbfa6afb3f5b84",
+    "edition": 6095,
+    "date": 1639794480036,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Yellow",
+            "count": 998,
+            "average": 0.0998,
+            "frequency": "9.980000000%",
+            "score": 10.02004008016032
+        },
+        {
+            "trait_type": "skins",
+            "value": "Lightskin",
+            "count": 2392,
+            "average": 0.2392,
+            "frequency": "23.920000000%",
+            "score": 4.1806020066889635
+        },
+        {
+            "trait_type": "shirts",
+            "value": "I DONT SMOKE",
+            "count": 224,
+            "average": 0.0224,
+            "frequency": "2.240000000%",
+            "score": 44.642857142857146
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Rolling",
+            "count": 478,
+            "average": 0.0478,
+            "frequency": "4.780000000%",
+            "score": 20.920502092050206
+        },
+        {
+            "trait_type": "mouths",
+            "value": "One Too Many",
+            "count": 296,
+            "average": 0.0296,
+            "frequency": "2.960000000%",
+            "score": 33.78378378378378
+        },
+        {
+            "trait_type": "head",
+            "value": "Classy",
+            "count": 332,
+            "average": 0.0332,
+            "frequency": "3.320000000%",
+            "score": 30.12048192771084
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 143.66826703325125,
+        "rank": 9523,
+        "harmonic": {
+            "score": "0.696047931%",
+            "rank": 9523
+        }
+    }
+}

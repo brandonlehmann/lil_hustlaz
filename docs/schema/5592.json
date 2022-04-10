@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #5592",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/5592.png",
+    "dna": "fe294016e52e0da30a7f8460dda255afa621dd10",
+    "edition": 5592,
+    "date": 1639794393863,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Orange",
+            "count": 1015,
+            "average": 0.1015,
+            "frequency": "10.150000000%",
+            "score": 9.852216748768472
+        },
+        {
+            "trait_type": "skins",
+            "value": "White",
+            "count": 2396,
+            "average": 0.2396,
+            "frequency": "23.960000000%",
+            "score": 4.173622704507513
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Baller",
+            "count": 190,
+            "average": 0.019,
+            "frequency": "1.900000000%",
+            "score": 52.631578947368425
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Confused",
+            "count": 504,
+            "average": 0.0504,
+            "frequency": "5.040000000%",
+            "score": 19.841269841269842
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Joint",
+            "count": 407,
+            "average": 0.0407,
+            "frequency": "4.070000000%",
+            "score": 24.57002457002457
+        },
+        {
+            "trait_type": "head",
+            "value": "Bleached",
+            "count": 95,
+            "average": 0.0095,
+            "frequency": "0.950000000%",
+            "score": 105.26315789473685
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 216.3318707066757,
+        "rank": 6892,
+        "harmonic": {
+            "score": "0.462252740%",
+            "rank": 6892
+        }
+    }
+}

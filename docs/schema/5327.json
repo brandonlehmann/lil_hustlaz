@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #5327",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/5327.png",
+    "dna": "352797068f20945d456bc1f120bd514d08a6c483",
+    "edition": 5327,
+    "date": 1639794349288,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Dark Blue",
+            "count": 1019,
+            "average": 0.1019,
+            "frequency": "10.190000000%",
+            "score": 9.813542688910696
+        },
+        {
+            "trait_type": "skins",
+            "value": "Black",
+            "count": 2391,
+            "average": 0.2391,
+            "frequency": "23.910000000%",
+            "score": 4.182350480970305
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Farmer",
+            "count": 199,
+            "average": 0.0199,
+            "frequency": "1.990000000%",
+            "score": 50.25125628140703
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Villain",
+            "count": 87,
+            "average": 0.0087,
+            "frequency": "0.870000000%",
+            "score": 114.9425287356322
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Reptile",
+            "count": 95,
+            "average": 0.0095,
+            "frequency": "0.950000000%",
+            "score": 105.26315789473685
+        },
+        {
+            "trait_type": "head",
+            "value": "Snapback",
+            "count": 393,
+            "average": 0.0393,
+            "frequency": "3.930000000%",
+            "score": 25.44529262086514
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 309.89812870252223,
+        "rank": 1535,
+        "harmonic": {
+            "score": "0.322686686%",
+            "rank": 1535
+        }
+    }
+}

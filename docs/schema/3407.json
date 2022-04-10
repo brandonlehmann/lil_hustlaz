@@ -1,0 +1,92 @@
+{
+    "name": "Lil Hustlaz #3407",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/3407.png",
+    "dna": "6cc3ff48aee05dea05ef9a968e39411f9c56c546",
+    "edition": 3407,
+    "date": 1639793934600,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Pink",
+            "count": 996,
+            "average": 0.0996,
+            "frequency": "9.960000000%",
+            "score": 10.040160642570282
+        },
+        {
+            "trait_type": "skins",
+            "value": "Lightskin",
+            "count": 2392,
+            "average": 0.2392,
+            "frequency": "23.920000000%",
+            "score": 4.1806020066889635
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "No Pain",
+            "count": 342,
+            "average": 0.0342,
+            "frequency": "3.420000000%",
+            "score": 29.239766081871345
+        },
+        {
+            "trait_type": "face",
+            "value": "Death Before Dishonor",
+            "count": 275,
+            "average": 0.0275,
+            "frequency": "2.750000000%",
+            "score": 36.36363636363637
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Hoop",
+            "count": 393,
+            "average": 0.0393,
+            "frequency": "3.930000000%",
+            "score": 25.44529262086514
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Farmer",
+            "count": 199,
+            "average": 0.0199,
+            "frequency": "1.990000000%",
+            "score": 50.25125628140703
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Nazgul",
+            "count": 94,
+            "average": 0.0094,
+            "frequency": "0.940000000%",
+            "score": 106.38297872340425
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Cyborg",
+            "count": 104,
+            "average": 0.0104,
+            "frequency": "1.040000000%",
+            "score": 96.15384615384616
+        },
+        {
+            "trait_type": "head",
+            "value": "Heat",
+            "count": 404,
+            "average": 0.0404,
+            "frequency": "4.040000000%",
+            "score": 24.752475247524753
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 382.8100141218143,
+        "rank": 442,
+        "harmonic": {
+            "score": "0.261226186%",
+            "rank": 442
+        }
+    }
+}

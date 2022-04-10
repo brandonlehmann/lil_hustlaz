@@ -1,0 +1,100 @@
+{
+    "name": "Lil Hustlaz #7263",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/7263.png",
+    "dna": "47db09e68801610695730507d5cf58c07cd4aff0",
+    "edition": 7263,
+    "date": 1639794731015,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Lost in Space",
+            "count": 1,
+            "average": 0.0001,
+            "frequency": "0.010000000%",
+            "score": 10000
+        },
+        {
+            "trait_type": "companions",
+            "value": "Lost in Space",
+            "count": 1,
+            "average": 0.0001,
+            "frequency": "0.010000000%",
+            "score": 10000
+        },
+        {
+            "trait_type": "skins",
+            "value": "Lost in Space",
+            "count": 1,
+            "average": 0.0001,
+            "frequency": "0.010000000%",
+            "score": 10000
+        },
+        {
+            "trait_type": "tattoos",
+            "value": "Lost in Space",
+            "count": 1,
+            "average": 0.0001,
+            "frequency": "0.010000000%",
+            "score": 10000
+        },
+        {
+            "trait_type": "face",
+            "value": "Lost in Space",
+            "count": 1,
+            "average": 0.0001,
+            "frequency": "0.010000000%",
+            "score": 10000
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Lost in Space",
+            "count": 1,
+            "average": 0.0001,
+            "frequency": "0.010000000%",
+            "score": 10000
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Lost in Space",
+            "count": 1,
+            "average": 0.0001,
+            "frequency": "0.010000000%",
+            "score": 10000
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Lost in Space",
+            "count": 1,
+            "average": 0.0001,
+            "frequency": "0.010000000%",
+            "score": 10000
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Lost in Space",
+            "count": 1,
+            "average": 0.0001,
+            "frequency": "0.010000000%",
+            "score": 10000
+        },
+        {
+            "trait_type": "head",
+            "value": "Lost in Space",
+            "count": 1,
+            "average": 0.0001,
+            "frequency": "0.010000000%",
+            "score": 10000
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 100000,
+        "rank": 1,
+        "harmonic": {
+            "score": "0.001000000%",
+            "rank": 1
+        }
+    }
+}

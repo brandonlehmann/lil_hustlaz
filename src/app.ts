@@ -1,21 +1,10 @@
-import $ from 'jquery';
-import 'bootstrap';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import Metronome from 'node-metronome';
-import { ethers } from '@brandonlehmann/ethers-providers';
 import { loadMeta, getAttributeValue } from './tools';
-import Web3Controller from './Web3Utils';
+import Web3Controller, { Metronome, ethers, ERC721, BigNumber } from '@brandonlehmann/web3';
+import { $, showStatusModal } from '@brandonlehmann/web3/dist/UITools';
 
 const winningTokenIds = [
-    8, 16, 18, 32, 37,
-    40, 43, 47, 50, 72,
-    83, 99, 103, 123, 132,
-    151, 159, 166, 184, 195,
-    211, 246, 268, 287, 292,
-    313, 341, 344, 356, 366,
-    447, 459, 464, 477, 485,
-    495
-];
+    72, 2889, 8346, 1164, 4960, 7263, 5319, 3833, 9502, 6585
+].sort();
 
 const nextWinner = (current: number): number => {
     for (const val of winningTokenIds) {
@@ -27,76 +16,50 @@ const nextWinner = (current: number): number => {
     return winningTokenIds[winningTokenIds.length - 1];
 };
 
+class LilHustlaz extends ERC721 {
+    public async price (): Promise<BigNumber> {
+        return this.retryCall<BigNumber>(this.contract.price);
+    }
+
+    public async mintLilHustlaz (count: ethers.BigNumberish): Promise<ethers.ContractTransaction> {
+        const price = await this.price();
+
+        const sendVal = price.mul(count);
+
+        console.log('Sending: %s', ethers.utils.formatEther(sendVal));
+
+        return this.contract.mintLilHustlaz(count, { value: sendVal });
+    }
+}
+
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
 // @ts-ignore
 $(document).ready(async () => {
-    const showStatus = async (success: boolean, message: any): Promise<void> => {
-        const elem = $('#statusMessage');
-
-        if (success) {
-            elem.addClass('alert-success');
-            elem.removeClass('alert-danger');
-        } else {
-            elem.addClass('alert-danger');
-            elem.removeClass('alert-success');
-        }
-
-        if (message.data && message.data.message) {
-            message = message.data.message;
-        } else if (message.message) {
-            message = message.message;
-        }
-
-        let finalMessage = message as string;
-
-        if (finalMessage.toLowerCase().includes('while formatting outputs') ||
-            finalMessage.toLowerCase().includes('internal error')) {
-            finalMessage = 'Internal wallet error, please try again.';
-        }
-
-        if (finalMessage.toLowerCase().includes('ds-math-sub-underflow')) {
-            finalMessage = 'Balance insufficient';
-        }
-
-        if (finalMessage.toLowerCase().includes('deposited token has no reward token value')) {
-            finalMessage = 'Sorry, gTRTL reward must be greater than 0';
-        }
-
-        finalMessage = finalMessage.replace('execution reverted:', '').trim();
-
-        elem.text(finalMessage);
-
-        if (finalMessage.length !== 0) {
-            console.log(finalMessage);
-            $.noConflict();
-            $('#statusModal').modal('toggle');
-        }
-    };
-
     const timer = new Metronome(15_000, true);
 
+    const nftImage = $('#nftVideo');
+    const winImage = $('#winVideo');
+
     const controller = await Web3Controller.load(
-        'Spiritopoly Mint Helper',
-        undefined,
-        true);
+        'Lil Hustlaz Mint Helper', {
+            chainId: 1,
+            cacheProvider: true
+        });
 
-    const commonProvider = new ethers.providers.JsonRpcProvider('https://rpc.ftm.tools/');
-    let contract = (
-        new ethers.Contract('0x5d24319358848E5e0f9f8a1F72e91DAf5A0F14df',
-            require('../src/abi.json')))
-        .connect(commonProvider);
+    controller.on('connected', async (info) => {
+        if (info.chainId !== 1 || (await controller.signer?.getChainId()) !== 1) {
+            return showStatusModal(false, 'Please connect to the ethereum mainnet');
+        }
+    });
 
-    const totalSupply = async (): Promise<number> => {
-        return (await contract.totalSupply()).toNumber();
-    };
+    controller.on('chainChanged', async (chainId) => {
+        if (chainId !== 1 || (await controller.signer?.getChainId()) !== 1) {
+            return showStatusModal(false, 'Please connect to the ethereum mainnet');
+        }
+    });
 
-    const mint = async (tokenId: number): Promise<ethers.ContractTransaction> => {
-        const price = await contract.price();
-
-        console.log('Price: %s', price.toString());
-
-        return contract.buySpirit(tokenId, { value: price });
-    };
+    const contract = new LilHustlaz(await controller.loadContract(
+        '0xB80a06EA0f4D17DD7D4b584DAA483C760331137B', undefined, undefined, 1));
 
     let currentToken = 0;
     let nextWinnerToken = 0;
@@ -105,39 +68,39 @@ $(document).ready(async () => {
         try {
             timer.paused = true;
 
-            const next = await totalSupply();
+            const supply = (await contract.totalSupply()).toNumber() - 1;
+
+            const next = (await contract.tokenByIndex(supply)).toNumber() + 1;
 
             if (next !== currentToken) {
-                const meta = loadMeta(next);
+                const meta = await loadMeta(next);
 
-                $('#nftVideo').attr('src', meta.image)
-                    .trigger('play');
+                nftImage.LoadingOverlay('show');
+                nftImage.attr('src', meta.image);
+                nftImage.on('load', () => {
+                    nftImage.LoadingOverlay('hide');
+                });
                 $('#tokenId').val(next.toString());
-                $('#nftBackground').val(getAttributeValue(meta, 'Background'));
-                $('#nftGameToken').val(getAttributeValue(meta, 'Game Token'));
-                $('#nftAppearance').val(getAttributeValue(meta, 'Token Appearance'));
-                $('#nftRarity').val(getAttributeValue(meta, 'Overall Rarity'));
-                $('#nftWinner').val((winningTokenIds.includes(next)) ? 'YES!' : 'No');
+                $('#nftRank').val(meta.rarity?.rank || 'Unknown');
 
                 if (winningTokenIds.includes(next)) {
-                    $('#mintButton').text('Safe Mint #' + next);
+                    $('#mintButton').text('Mint #' + next);
                     $('#mintButton').removeAttr('disabled');
                 } else {
                     $('#mintButton').text('Minting Disabled');
                     $('#mintButton').attr('disabled', 'disabled');
                 }
 
-                const winner = loadMeta(nextWinner(next));
+                const winner = await loadMeta(nextWinner(next));
 
                 if (nextWinner(next) !== nextWinnerToken) {
-                    $('#winVideo').attr('src', winner.image)
-                        .trigger('play');
+                    winImage.LoadingOverlay('show');
+                    winImage.attr('src', winner.image);
+                    winImage.on('load', () => {
+                        winImage.LoadingOverlay('hide');
+                    });
                     $('#winTokenId').val(nextWinner(next).toString());
-                    $('#winBackground').val(getAttributeValue(winner, 'Background'));
-                    $('#winGameToken').val(getAttributeValue(winner, 'Game Token'));
-                    $('#winAppearance').val(getAttributeValue(winner, 'Token Appearance'));
-                    $('#winRarity').val(getAttributeValue(winner, 'Overall Rarity'));
-                    $('#winWinner').val((winningTokenIds.includes(nextWinner(next))) ? 'YES!' : 'No');
+                    $('#winRank').val(winner.rarity?.rank || 'Unknown');
 
                     nextWinnerToken = nextWinner(next);
                 }
@@ -156,15 +119,15 @@ $(document).ready(async () => {
 
     mintButton.on('click', async () => {
         try {
-            const tx = await mint(currentToken);
+            const tx = await contract.mintLilHustlaz(1);
 
             await tx.wait(2);
 
             timer.tick();
 
-            showStatus(true, 'Successfully minted');
+            showStatusModal(true, 'Successfully minted');
         } catch (e: any) {
-            showStatus(false, e);
+            showStatusModal(false, e);
         }
     });
 
@@ -173,26 +136,30 @@ $(document).ready(async () => {
             button.text('Connecting...');
 
             try {
-                await controller.connect();
+                await controller.showWeb3Modal();
 
                 button.text('Disconnect Wallet');
 
-                contract = contract.connect(controller.signer);
+                if (!controller.signer) {
+                    return showStatusModal(false, 'Could not get wallet signer');
+                }
 
-                showStatus(true, '');
+                contract.connect(controller.signer);
+
+                showStatusModal(true, '');
 
                 timer.tick();
             } catch (e: any) {
                 button.text('Connect Wallet');
 
-                showStatus(false, e);
+                showStatusModal(false, e);
             }
         } else {
+            await controller.disconnect(true);
+
             mintButton.attr('disabled', 'disabled');
 
-            contract = contract.connect(commonProvider);
-
-            await controller.disconnect(true);
+            contract.connect(controller.provider);
 
             button.text('Connect Wallet');
         }
@@ -200,7 +167,7 @@ $(document).ready(async () => {
 
     button.removeAttr('disabled');
 
-    if (controller.cacheProvider && controller.modal.cachedProvider && controller.modal.cachedProvider.length !== 0) {
+    if (controller.isCached) {
         button.click();
     }
 

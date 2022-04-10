@@ -1,0 +1,68 @@
+{
+    "name": "Lil Hustlaz #5319",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/5319.png",
+    "dna": "ed6044bef7c46b5d42a54a5d4b3fce3a59e2ca51",
+    "edition": 5319,
+    "date": 1639794347890,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Cloud Nine",
+            "count": 1,
+            "average": 0.0001,
+            "frequency": "0.010000000%",
+            "score": 10000
+        },
+        {
+            "trait_type": "skins",
+            "value": "Cloud Nine",
+            "count": 1,
+            "average": 0.0001,
+            "frequency": "0.010000000%",
+            "score": 10000
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Cloud Nine",
+            "count": 1,
+            "average": 0.0001,
+            "frequency": "0.010000000%",
+            "score": 10000
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Cloud Nine",
+            "count": 1,
+            "average": 0.0001,
+            "frequency": "0.010000000%",
+            "score": 10000
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Cloud Nine",
+            "count": 1,
+            "average": 0.0001,
+            "frequency": "0.010000000%",
+            "score": 10000
+        },
+        {
+            "trait_type": "head",
+            "value": "Cloud Nine",
+            "count": 1,
+            "average": 0.0001,
+            "frequency": "0.010000000%",
+            "score": 10000
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 60000,
+        "rank": 4,
+        "harmonic": {
+            "score": "0.001666667%",
+            "rank": 4
+        }
+    }
+}

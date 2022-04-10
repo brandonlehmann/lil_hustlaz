@@ -1,32 +1,23 @@
-interface INFT {
-    name: string;
-    image: string;
-    id: string;
-    attributes: {
-        trait_type: string;
-        value: string;
-        count?: number;
-        frequency?: string;
-    }[]
-}
+import { IERC721Metadata, fetch } from '@brandonlehmann/web3';
 
-const loadMeta = (tokenId: number): INFT => {
-    const meta: INFT = require('../src/schema/' + tokenId + '.json');
+const loadMeta = async (tokenId: number): Promise<IERC721Metadata> => {
+    const response = await fetch('./schema/' + tokenId + '.json?=' + (new Date()).toTimeString());
 
-    meta.image = './assets/' + meta.image
-        .split('/')
-        .slice(-2)
-        .join('/');
+    if (!response.ok) {
+        throw new Error('could not retrieve');
+    }
 
-    meta.image = meta.image.replace('.mp4', '_noaudio.mp4');
+    const meta: IERC721Metadata = await response.json();
+
+    meta.image = meta.image.replace('ipfs://', 'https://cloudflare-ipfs.com/ipfs/');
 
     return meta;
 };
 
-const getAttributeValue = (meta: INFT, key: string): string => {
+const getAttributeValue = (meta: IERC721Metadata, key: string): string => {
     for (const attrib of meta.attributes) {
         if (attrib.trait_type.toLowerCase() === key.toLowerCase()) {
-            return attrib.value;
+            return attrib.value.toString();
         }
     }
 

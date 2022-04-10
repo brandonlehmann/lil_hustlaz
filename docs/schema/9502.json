@@ -1,0 +1,84 @@
+{
+    "name": "Lil Hustlaz #9502",
+    "description": "everyday we hustlin",
+    "image": "ipfs://QmNaEUnisMCkva6yM75VR4UwJbftZunJRnmAxTo7eYMuVb/9502.png",
+    "dna": "99aed91b0017f9e6fc0a4bea42b1f675cf657e9f",
+    "edition": 9502,
+    "date": 1639795169715,
+    "attributes": [
+        {
+            "trait_type": "backgrounds",
+            "value": "Robo",
+            "count": 1,
+            "average": 0.0001,
+            "frequency": "0.010000000%",
+            "score": 10000
+        },
+        {
+            "trait_type": "skins",
+            "value": "Robo",
+            "count": 1,
+            "average": 0.0001,
+            "frequency": "0.010000000%",
+            "score": 10000
+        },
+        {
+            "trait_type": "face",
+            "value": "Robo",
+            "count": 1,
+            "average": 0.0001,
+            "frequency": "0.010000000%",
+            "score": 10000
+        },
+        {
+            "trait_type": "piercings",
+            "value": "Robo",
+            "count": 1,
+            "average": 0.0001,
+            "frequency": "0.010000000%",
+            "score": 10000
+        },
+        {
+            "trait_type": "shirts",
+            "value": "Robo",
+            "count": 1,
+            "average": 0.0001,
+            "frequency": "0.010000000%",
+            "score": 10000
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Robo",
+            "count": 1,
+            "average": 0.0001,
+            "frequency": "0.010000000%",
+            "score": 10000
+        },
+        {
+            "trait_type": "mouths",
+            "value": "Robo",
+            "count": 1,
+            "average": 0.0001,
+            "frequency": "0.010000000%",
+            "score": 10000
+        },
+        {
+            "trait_type": "head",
+            "value": "Robo",
+            "count": 1,
+            "average": 0.0001,
+            "frequency": "0.010000000%",
+            "score": 10000
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "rarity": {
+        "total": 10000,
+        "score": 80000,
+        "rank": 3,
+        "harmonic": {
+            "score": "0.001250000%",
+            "rank": 3
+        }
+    }
+}
